@@ -110,3 +110,20 @@ def check_task(type: str = "daily"):
         print("✅ Updated successfully.")
     else:
         print(f"❌ Error {code}.")
+
+
+def getStreak():
+    daily_high = ["", 0]
+    daily_low = ["", 100]
+
+    for i in task["daily"]:
+        current_streak = [i.get("text"), i.get("streak")]
+
+        if current_streak[-1] > daily_high[-1]:
+            daily_high = current_streak
+        elif current_streak[-1] < daily_low[-1]:
+            daily_low = current_streak
+
+    print("")
+    print(f"The Highest Streak : {daily_high[0]} = {daily_high[-1]}")
+    print(f"The Lowest Streak : {daily_low[0]} = {daily_low[-1]}")
