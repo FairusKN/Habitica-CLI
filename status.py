@@ -1,10 +1,13 @@
 from typing import Any
 
 from cache import get_data_with_cache
+from logger import log
 
 
 def get_UserStats() -> None:
-    data = get_data_with_cache()
+    data = get_data_with_cache(
+        endpoint_name="user_data", url="https://habitica.com/api/v3/user"
+    )
 
     stats: Any = data["stats"]
 
@@ -17,4 +20,4 @@ def get_UserStats() -> None:
     }
 
     for i, j in enumerate(current_stats, start=1):
-        print(f"{i}. {j} = {stats[j]}")
+        log.info(f"{i}. {j} = {stats[j]}")

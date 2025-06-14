@@ -3,7 +3,9 @@ from datetime import datetime
 
 import requests
 
-from header import get_API_status, headers
+from header import headers
+from logger import log
+from constant import TASKS_URL, USER_URL
 
 
 def save_cache(data, filename: str = "cache/user_data.json"):
@@ -23,10 +25,6 @@ def is_cache_valid(filename: str = "cache/user_data.json", max_age=45):
 
 
 def fetch_func(url: str):
-    if not get_API_status():
-        print("API is not available, will use cache instead")
-        return
-
     response = requests.get(url, headers=headers)
     data = response.json()["data"]
     return data
@@ -34,15 +32,21 @@ def fetch_func(url: str):
 
 def get_data_with_cache(
     endpoint_name: str = "user_data",
-    url: str = "https://habitica.com/api/v3/user",
+    url: str = USER_URL,
     max_age=45,
     force_refresh=False,
 ):
-    filename = f"cache/{endpoint_name}.json"
-    if not force_refresh and is_cache_valid(filename, max_age):
-        with open(filename, "r") as f:
-            return json.load(f)["data"]
-    else:
-        data = fetch_func(url)
-        save_cache(data, filename)
-        return data
+    try:
+        filename = f"cache/{endpoint_name}.json"
+        if not force_refresh and is_cache_valid(filename, max_age):
+            with open(filename, "r") as f:
+                return json.load(f)["data"]
+        else:
+            data = fetch_func(url)
+            save_cache(data, filename)
+            return data
+    except Exception as e:
+        message = "An exception of type {0} occurred. Arguments:\n{1!r}".format(
+            type(e).__name__, e.args
+        )
+        log.error("Error", message)
