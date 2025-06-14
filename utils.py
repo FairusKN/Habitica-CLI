@@ -4,7 +4,7 @@ Utils
 
 from logger import log
 
-def change_env():
+def change_env() -> None:
     """
     Change API_KEY and USER_ID
     """
@@ -32,6 +32,10 @@ def change_env():
 
 
 def get_API_status() -> bool:
+
+    """
+    Check if API is working or not
+    """
 
     import requests
     from header import headers
