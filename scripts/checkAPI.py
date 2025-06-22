@@ -1,7 +1,9 @@
 import requests
+
+from constant import HABITICA_API_BASE
 from header import headers
 from logger import log
-from constant import HABITICA_API_BASE
+
 
 def get_API_status() -> bool:
     url = f"{HABITICA_API_BASE}/status"

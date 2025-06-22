@@ -1,20 +1,23 @@
 from collections import defaultdict
 
-from cache import get_data_with_cache
-from logger import log
-from constant import TASKS_URL, HABITICA_API_BASE
+from .cache import get_data_with_cache
+from .constant import HABITICA_API_BASE, TASKS_URL
+from .logger import log
 
-data = get_data_with_cache(
-    endpoint_name="task_data", url=f"{TASKS_URL}/user"
-)
+try:
+    data = get_data_with_cache(endpoint_name="task_data", url=f"{TASKS_URL}/user")
 
-task = defaultdict(list)
+    task = defaultdict(list)
 
-for i in data:
-    key = i["type"]
-    task[key].append(i)
-
-task = dict(task)
+    if data:
+        for i in data:
+            key = i["type"]
+            task[key].append(i)
+    else:
+        log.error("Data not available. Exiting...")
+        task = dict(task)
+except Exception as e:
+    log.error(f"Error {e}")
 
 
 def get_task():
@@ -49,13 +52,13 @@ def check_task(type: str = "daily"):
 
     log.info(type.title())
 
-    #Loop trough the data to get the task
+    # Loop trough the data to get the task
     for j, i in enumerate(task[type.lower()], start=1):
         checklist = i.get("checklist")
 
-        log.info(f"{j}. {i["text"]}" )
+        log.info(f"{j}. {i['text']}")
 
-        #Loop a checklist then print it if there is any checklist
+        # Loop a checklist then print it if there is any checklist
         if checklist:
             for j in checklist:
                 log.info(
@@ -71,7 +74,6 @@ def check_task(type: str = "daily"):
         return
 
     import requests
-
     from header import headers
 
     selected_task = (
@@ -85,21 +87,21 @@ def check_task(type: str = "daily"):
 
     checklist = selected_task.get("checklist", [])
 
-    #If there is no checklist in task will outomatically post
+    # If there is no checklist in task will outomatically post
     if not checklist:
         url = f"{TASKS_URL}/{selected_task['_id']}/score/up"
         response = requests.post(url, headers=headers)
     else:
         checklist_ids = []
 
-        #Loop trough checklist then append the id
+        # Loop trough checklist then append the id
         for index, item in enumerate(checklist, start=1):
             log.info(
                 f"    {index}. [{'✅' if item.get('completed') else '❌'}]  {item['text'].title()}"
             )
             checklist_ids.append(item["id"])
 
-        #Input for checklist
+        # Input for checklist
         try:
             print("")
             choice_input = input("Checklist choice (default=1): ").strip()
@@ -128,7 +130,7 @@ def getStreak():
     daily_high = ["", 0]
     daily_low = ["", 100]
 
-    #Loop trough streak in daily type to append the score and the task
+    # Loop trough streak in daily type to append the score and the task
     for i in task["daily"]:
         current_streak = [i.get("text"), i.get("streak")]
 

@@ -1,17 +1,20 @@
 import json
+import os
 from datetime import datetime
 
 import requests
 
-from header import headers
-from logger import log
-from constant import TASKS_URL, USER_URL
+from .constant import USER_URL
+from .header import headers
+from .logger import log
 
 
-def save_cache(data, filename: str = "cache/user_data.json"):
-    cache = {"timestamp": datetime.utcnow().isoformat(), "data": data}
+def save_cache(data, filename: str) -> None:
+    os.makedirs(
+        os.path.dirname(filename), exist_ok=True
+    )  # <-- this ensures parent dirs exist
     with open(filename, "w", encoding="utf-8") as f:
-        json.dump(cache, f, indent=4)
+        json.dump(data, f, indent=4)
 
 
 def is_cache_valid(filename: str = "cache/user_data.json", max_age=45):

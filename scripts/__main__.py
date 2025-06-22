@@ -6,7 +6,7 @@ import sys
 
 if __name__ == "__main__":
     try:
-        from cli import core
+        from .cli import core
 
         core()
     except KeyboardInterrupt:

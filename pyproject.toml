@@ -1,0 +1,10 @@
+[project]
+name = "habitica-cli"
+version = "0.1.0"
+description = "A terminal-based Habitica companion"
+authors = [{ name = "Fairus" }]
+readme = "README.md"
+dependencies = ["requests", "dotenv"]
+
+[project.scripts]
+habitica-cli = "habitica_cli.__main__:main"

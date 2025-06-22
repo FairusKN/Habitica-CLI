@@ -2,7 +2,8 @@
 Utils
 """
 
-from logger import log
+from .logger import log
+
 
 def change_env() -> None:
     """
@@ -30,16 +31,15 @@ def change_env() -> None:
         log.error(f"Error : {e}")
 
 
-
 def get_API_status() -> bool:
-
     """
     Check if API is working or not
     """
 
     import requests
-    from header import headers
+
     from constant import HABITICA_API_BASE
+    from header import headers
 
     url = f"{HABITICA_API_BASE}/status"
     response = requests.get(url, headers=headers).json()
@@ -51,4 +51,3 @@ def get_API_status() -> bool:
             log.error("API is not available, will use cache instead")
     else:
         log.error("API is not available, will use cache instead")
-

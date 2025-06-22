@@ -1,0 +1,1299 @@
+{
+    "timestamp": "2025-06-14T14:09:10.307841",
+    "data": {
+        "auth": {
+            "local": {
+                "email": "kamalnapidfairus@gmail.com",
+                "username": "_Russ",
+                "lowerCaseUsername": "_russ",
+                "has_password": false
+            },
+            "timestamps": {
+                "created": "2024-06-15T12:18:08.977Z",
+                "loggedin": "2025-06-13T17:33:42.907Z",
+                "updated": "2025-06-14T14:09:16.806Z"
+            },
+            "google": {
+                "id": "114804891254879483856",
+                "emails": [
+                    {
+                        "value": "kamalnapidfairus@gmail.com",
+                        "verified": true
+                    }
+                ]
+            },
+            "facebook": {},
+            "apple": {}
+        },
+        "achievements": {
+            "ultimateGearSets": {
+                "healer": false,
+                "wizard": false,
+                "rogue": false,
+                "warrior": false
+            },
+            "streak": 2,
+            "challenges": [],
+            "perfect": 14,
+            "quests": {
+                "atom1": 1,
+                "atom2": 1,
+                "atom3": 1,
+                "basilist": 1,
+                "moon2": 1,
+                "dilatoryDistress1": 1,
+                "dilatoryDistress2": 1,
+                "vice1": 1
+            },
+            "completedTask": true,
+            "purchasedEquipment": true,
+            "createdTask": true,
+            "hatchedPet": true,
+            "fedPet": true,
+            "joinedChallenge": true,
+            "partyUp": true,
+            "partyOn": true,
+            "shinySeed": 1
+        },
+        "backer": {},
+        "contributor": {},
+        "permissions": {},
+        "purchased": {
+            "ads": false,
+            "txnCount": 0,
+            "skin": {},
+            "hair": {},
+            "shirt": {},
+            "background": {
+                "violet": true,
+                "blue": true,
+                "green": true,
+                "purple": true,
+                "red": true,
+                "yellow": true
+            },
+            "plan": {
+                "consecutive": {
+                    "count": 0,
+                    "offset": 0,
+                    "gemCapExtra": 0,
+                    "trinkets": 0
+                },
+                "quantity": 1,
+                "extraMonths": 0,
+                "perkMonthCount": -1,
+                "gemsBought": 0,
+                "mysteryItems": [],
+                "dateUpdated": "2024-06-15T17:14:23.855Z",
+                "cumulativeCount": 0
+            }
+        },
+        "flags": {
+            "tour": {
+                "intro": -2,
+                "classes": -2,
+                "stats": -2,
+                "tavern": -2,
+                "party": -2,
+                "guilds": -2,
+                "challenges": -2,
+                "market": -2,
+                "pets": -2,
+                "mounts": -2,
+                "hall": -2,
+                "equipment": -2,
+                "groupPlans": -2
+            },
+            "tutorial": {
+                "common": {
+                    "habits": true,
+                    "dailies": true,
+                    "todos": true,
+                    "rewards": true,
+                    "party": true,
+                    "pets": false,
+                    "gems": false,
+                    "skills": true,
+                    "classes": false,
+                    "tavern": false,
+                    "equipment": false,
+                    "items": false,
+                    "mounts": true,
+                    "inbox": false,
+                    "stats": true
+                },
+                "ios": {
+                    "addTask": false,
+                    "editTask": false,
+                    "deleteTask": false,
+                    "filterTask": false,
+                    "groupPets": false,
+                    "inviteParty": false,
+                    "reorderTask": false
+                }
+            },
+            "verifiedUsername": true,
+            "customizationsNotification": true,
+            "showTour": false,
+            "dropsEnabled": false,
+            "itemsEnabled": true,
+            "lastNewStuffRead": "ff8b6c19-e838-40bd-aa0d-fb7c2028b0ca",
+            "rewrite": true,
+            "classSelected": true,
+            "rebirthEnabled": false,
+            "levelDrops": {
+                "atom1": true
+            },
+            "recaptureEmailsPhase": 0,
+            "weeklyRecapEmailsPhase": 0,
+            "lastWeeklyRecap": "2024-06-15T12:18:08.977Z",
+            "communityGuidelinesAccepted": true,
+            "cronCount": 44,
+            "welcomed": true,
+            "armoireEnabled": true,
+            "armoireOpened": true,
+            "armoireEmpty": false,
+            "cardReceived": false,
+            "warnedLowHealth": true,
+            "initializedUserHistory": true,
+            "thirdPartyTools": "2025-06-14T13:49:45.262Z",
+            "newStuff": false
+        },
+        "history": {
+            "exp": [
+                {
+                    "date": "2024-06-15T17:14:23.835Z",
+                    "value": 51
+                },
+                {
+                    "date": "2025-02-10T13:20:23.596Z",
+                    "value": 92
+                },
+                {
+                    "date": "2025-02-10T23:48:59.872Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-02-11T22:51:22.206Z",
+                    "value": 55
+                },
+                {
+                    "date": "2025-02-13T11:16:33.294Z",
+                    "value": 63
+                },
+                {
+                    "date": "2025-02-14T18:08:00.140Z",
+                    "value": 114
+                },
+                {
+                    "date": "2025-02-16T10:52:44.128Z",
+                    "value": 173
+                },
+                {
+                    "date": "2025-02-17T10:29:04.347Z",
+                    "value": 205
+                },
+                {
+                    "date": "2025-02-18T12:01:14.291Z",
+                    "value": 242
+                },
+                {
+                    "date": "2025-02-19T06:28:34.712Z",
+                    "value": 262
+                },
+                {
+                    "date": "2025-02-19T21:25:38.392Z",
+                    "value": 296
+                },
+                {
+                    "date": "2025-02-22T10:22:21.920Z",
+                    "value": 314
+                },
+                {
+                    "date": "2025-02-26T07:09:27.663Z",
+                    "value": 367
+                },
+                {
+                    "date": "2025-02-27T06:55:44.667Z",
+                    "value": 386
+                },
+                {
+                    "date": "2025-03-02T09:46:28.263Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-03-07T03:48:32.236Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-03-09T09:14:12.296Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-19T08:14:54.683Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-19T23:46:12.874Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-21T02:39:47.958Z",
+                    "value": 20
+                },
+                {
+                    "date": "2025-05-21T20:15:36.077Z",
+                    "value": 49
+                },
+                {
+                    "date": "2025-05-23T02:43:27.490Z",
+                    "value": 155
+                },
+                {
+                    "date": "2025-05-24T05:34:12.637Z",
+                    "value": 242
+                },
+                {
+                    "date": "2025-05-24T19:55:29.571Z",
+                    "value": 338
+                },
+                {
+                    "date": "2025-05-26T08:56:06.412Z",
+                    "value": 392
+                },
+                {
+                    "date": "2025-05-26T18:40:50.830Z",
+                    "value": 453
+                },
+                {
+                    "date": "2025-05-27T23:19:24.681Z",
+                    "value": 521
+                },
+                {
+                    "date": "2025-05-29T05:14:42.871Z",
+                    "value": 540
+                },
+                {
+                    "date": "2025-05-30T12:04:36.128Z",
+                    "value": 574
+                },
+                {
+                    "date": "2025-05-30T17:08:30.483Z",
+                    "value": 684
+                },
+                {
+                    "date": "2025-05-31T23:55:54.594Z",
+                    "value": 854
+                },
+                {
+                    "date": "2025-06-01T18:04:31.425Z",
+                    "value": 1076
+                },
+                {
+                    "date": "2025-06-03T02:42:46.311Z",
+                    "value": 1341
+                },
+                {
+                    "date": "2025-06-03T17:03:04.310Z",
+                    "value": 1510
+                },
+                {
+                    "date": "2025-06-04T23:05:30.427Z",
+                    "value": 1930.2336418696848
+                },
+                {
+                    "date": "2025-06-06T00:42:56.721Z",
+                    "value": 2307.5405725627543
+                },
+                {
+                    "date": "2025-06-06T17:50:03.995Z",
+                    "value": 2520.5405725627543
+                },
+                {
+                    "date": "2025-06-08T04:36:23.284Z",
+                    "value": 2855.5405725627543
+                },
+                {
+                    "date": "2025-06-08T17:24:59.877Z",
+                    "value": 3108.5405725627543
+                },
+                {
+                    "date": "2025-06-09T23:40:06.537Z",
+                    "value": 3808.7273607176517
+                },
+                {
+                    "date": "2025-06-10T17:45:57.147Z",
+                    "value": 3938.7273607176517
+                },
+                {
+                    "date": "2025-06-11T17:04:35.234Z",
+                    "value": 4686.727360717652
+                },
+                {
+                    "date": "2025-06-12T17:48:16.898Z",
+                    "value": 4943.727360717652
+                },
+                {
+                    "date": "2025-06-13T17:33:42.907Z",
+                    "value": 5254.632686161439
+                }
+            ],
+            "todos": [
+                {
+                    "date": "2024-06-15T17:14:23.835Z",
+                    "value": -2
+                },
+                {
+                    "date": "2025-02-10T13:20:23.596Z",
+                    "value": -4.05191340925413
+                },
+                {
+                    "date": "2025-02-10T23:48:59.872Z",
+                    "value": -5
+                },
+                {
+                    "date": "2025-02-11T22:51:22.206Z",
+                    "value": -6.077870113881195
+                },
+                {
+                    "date": "2025-02-13T11:16:33.294Z",
+                    "value": -9.23773269200291
+                },
+                {
+                    "date": "2025-02-14T18:08:00.140Z",
+                    "value": -4.161348258391508
+                },
+                {
+                    "date": "2025-02-16T10:52:44.128Z",
+                    "value": -11.27387839973952
+                },
+                {
+                    "date": "2025-02-17T10:29:04.347Z",
+                    "value": -16.548365847179177
+                },
+                {
+                    "date": "2025-02-18T12:01:14.291Z",
+                    "value": -22.99358310228074
+                },
+                {
+                    "date": "2025-02-19T06:28:34.712Z",
+                    "value": -25.4576851022874
+                },
+                {
+                    "date": "2025-02-19T21:25:38.392Z",
+                    "value": -32.16115547177828
+                },
+                {
+                    "date": "2025-02-22T10:22:21.920Z",
+                    "value": -39.06018590903618
+                },
+                {
+                    "date": "2025-02-26T07:09:27.663Z",
+                    "value": -33.468692026437864
+                },
+                {
+                    "date": "2025-02-27T06:55:44.667Z",
+                    "value": -39.41051653327699
+                },
+                {
+                    "date": "2025-03-02T09:46:28.263Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-03-07T03:48:32.236Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-03-09T09:14:12.296Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-19T08:14:54.683Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-19T23:46:12.874Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-21T02:39:47.958Z",
+                    "value": -1
+                },
+                {
+                    "date": "2025-05-21T20:15:36.077Z",
+                    "value": -2.025956704627065
+                },
+                {
+                    "date": "2025-05-23T02:43:27.490Z",
+                    "value": -4.079244230667637
+                },
+                {
+                    "date": "2025-05-24T05:34:12.637Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-24T19:55:29.571Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-26T08:56:06.412Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-26T18:40:50.830Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-27T23:19:24.681Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-29T05:14:42.871Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-30T12:04:36.128Z",
+                    "value": 0
+                },
+                {
+                    "date": "2025-05-30T17:08:30.483Z",
+                    "value": -10
+                },
+                {
+                    "date": "2025-05-31T23:55:54.594Z",
+                    "value": -20.259567046270647
+                },
+                {
+                    "date": "2025-06-01T18:04:31.425Z",
+                    "value": -27.71319807600873
+                },
+                {
+                    "date": "2025-06-03T02:42:46.311Z",
+                    "value": -37.45213432552356
+                },
+                {
+                    "date": "2025-06-03T17:03:04.310Z",
+                    "value": -48.46490559765567
+                },
+                {
+                    "date": "2025-06-04T23:05:30.427Z",
+                    "value": -57.76724091639468
+                },
+                {
+                    "date": "2025-06-06T00:42:56.721Z",
+                    "value": -68.37625754048301
+                },
+                {
+                    "date": "2025-06-06T17:50:03.995Z",
+                    "value": -79.31062861849234
+                },
+                {
+                    "date": "2025-06-08T04:36:23.284Z",
+                    "value": -80.52513498256162
+                },
+                {
+                    "date": "2025-06-08T17:24:59.877Z",
+                    "value": -91.8791992658696
+                },
+                {
+                    "date": "2025-06-09T23:40:06.537Z",
+                    "value": -103.60838204111505
+                },
+                {
+                    "date": "2025-06-10T17:45:57.147Z",
+                    "value": -115.73821337155503
+                },
+                {
+                    "date": "2025-06-11T17:04:35.234Z",
+                    "value": -129.2969154997486
+                },
+                {
+                    "date": "2025-06-12T17:48:16.898Z",
+                    "value": -142.31579453311898
+                },
+                {
+                    "date": "2025-06-13T17:33:42.907Z",
+                    "value": -154.8297059446065
+                }
+            ]
+        },
+        "items": {
+            "gear": {
+                "equipped": {
+                    "weapon": "weapon_special_spring2025Mage",
+                    "armor": "armor_special_spring2023Mage",
+                    "head": "head_special_2",
+                    "shield": "shield_base_0",
+                    "headAccessory": "headAccessory_base_0",
+                    "eyewear": "eyewear_base_0"
+                },
+                "costume": {
+                    "weapon": "weapon_special_spring2023Mage",
+                    "armor": "armor_special_spring2023Mage",
+                    "head": "head_special_spring2023Mage",
+                    "shield": "shield_base_0",
+                    "headAccessory": "headAccessory_base_0",
+                    "eyewear": "eyewear_special_blueHalfMoon"
+                },
+                "owned": {
+                    "headAccessory_special_blackHeadband": true,
+                    "headAccessory_special_blueHeadband": true,
+                    "headAccessory_special_greenHeadband": true,
+                    "headAccessory_special_pinkHeadband": true,
+                    "headAccessory_special_redHeadband": true,
+                    "headAccessory_special_whiteHeadband": true,
+                    "headAccessory_special_yellowHeadband": true,
+                    "eyewear_special_blackTopFrame": true,
+                    "eyewear_special_blueTopFrame": true,
+                    "eyewear_special_greenTopFrame": true,
+                    "eyewear_special_pinkTopFrame": true,
+                    "eyewear_special_redTopFrame": true,
+                    "eyewear_special_whiteTopFrame": true,
+                    "eyewear_special_yellowTopFrame": true,
+                    "eyewear_special_blackHalfMoon": true,
+                    "eyewear_special_blueHalfMoon": true,
+                    "eyewear_special_greenHalfMoon": true,
+                    "eyewear_special_pinkHalfMoon": true,
+                    "eyewear_special_redHalfMoon": true,
+                    "eyewear_special_whiteHalfMoon": true,
+                    "eyewear_special_yellowHalfMoon": true,
+                    "weapon_warrior_0": true,
+                    "armor_special_bardRobes": true,
+                    "head_special_bardHat": true,
+                    "weapon_special_winter2025Warrior": false,
+                    "head_special_piDay": true,
+                    "shield_special_piDay": true,
+                    "weapon_special_bardInstrument": true,
+                    "weapon_wizard_0": true,
+                    "weapon_special_spring2025Mage": true,
+                    "shield_special_takeThis": true,
+                    "armor_special_spring2023Mage": true,
+                    "head_special_spring2023Mage": true,
+                    "shield_armoire_teaKettle": true,
+                    "head_special_2": true,
+                    "weapon_special_spring2023Mage": true,
+                    "armor_special_lunarWarriorArmor": true,
+                    "armor_special_finnedOceanicArmor": true,
+                    "head_special_fireCoralCirclet": true
+                }
+            },
+            "special": {
+                "snowball": 0,
+                "spookySparkles": 0,
+                "shinySeed": 0,
+                "seafoam": 0,
+                "valentine": 0,
+                "valentineReceived": [],
+                "nye": 0,
+                "nyeReceived": [],
+                "greeting": 0,
+                "greetingReceived": [],
+                "thankyou": 0,
+                "thankyouReceived": [],
+                "birthday": 0,
+                "birthdayReceived": [],
+                "congrats": 0,
+                "congratsReceived": [],
+                "getwell": 0,
+                "getwellReceived": [],
+                "goodluck": 0,
+                "goodluckReceived": []
+            },
+            "lastDrop": {
+                "count": 0,
+                "date": "2025-06-13T15:23:13.038Z"
+            },
+            "currentPet": "Fox-Shade",
+            "currentMount": "Dragon-Fairy",
+            "pets": {
+                "Dragon-Skeleton": 35,
+                "Wolf-Veteran": 5,
+                "Dragon-White": 5,
+                "Dragon-RoyalPurple": -1,
+                "Fox-CottonCandyBlue": 5,
+                "LionCub-RoyalPurple": 15,
+                "BearCub-Zombie": 35,
+                "BearCub-Skeleton": 5,
+                "Fox-Shade": 18,
+                "LionCub-Zombie": 5,
+                "Cactus-Base": 5,
+                "Dragon-Golden": 13,
+                "Dragon-Fairy": -1,
+                "FlyingPig-Base": 5,
+                "Fox-RoyalPurple": 5,
+                "BearCub-Base": 5,
+                "BearCub-White": 5,
+                "Cactus-Skeleton": 5,
+                "Cactus-White": 5,
+                "Cactus-Red": 5,
+                "FlyingPig-Golden": 5,
+                "LionCub-CottonCandyBlue": 5,
+                "LionCub-Skeleton": 5,
+                "Fox-White": 5
+            },
+            "eggs": {
+                "Dragon": 1,
+                "LionCub": 0,
+                "FlyingPig": 2,
+                "BearCub": 3,
+                "Fox": 0,
+                "Cactus": 1,
+                "Wolf": 1
+            },
+            "hatchingPotions": {
+                "Skeleton": 4,
+                "White": 2,
+                "RoyalPurple": 1,
+                "Base": 2,
+                "Zombie": 0,
+                "CottonCandyBlue": 1,
+                "Golden": 1,
+                "Shade": 0,
+                "Red": 0,
+                "Fairy": 0,
+                "Desert": 3,
+                "CottonCandyPink": 1
+            },
+            "food": {
+                "Milk": 3,
+                "Potatoe": 1,
+                "Chocolate": 3,
+                "Meat": 0,
+                "CottonCandyPink": 3,
+                "RottenMeat": 0,
+                "CottonCandyBlue": 0,
+                "Strawberry": 0,
+                "Pie_Base": 0,
+                "Pie_CottonCandyBlue": 0,
+                "Pie_CottonCandyPink": 1,
+                "Pie_Desert": 1,
+                "Pie_Golden": 0,
+                "Pie_Red": 1,
+                "Pie_Shade": 0,
+                "Pie_Skeleton": 0,
+                "Pie_White": 0,
+                "Pie_Zombie": 0,
+                "Fish": 2,
+                "Honey": 2
+            },
+            "mounts": {
+                "Orca-Base": true,
+                "Dragon-RoyalPurple": true,
+                "Dragon-Fairy": true
+            },
+            "quests": {
+                "dustbunnies": 1,
+                "moon1": 1,
+                "moon2": 1,
+                "atom1": 1,
+                "moon3": 1,
+                "octopus": 1
+            }
+        },
+        "invitations": {
+            "guilds": [],
+            "party": {},
+            "parties": []
+        },
+        "party": {
+            "quest": {
+                "progress": {
+                    "up": 3.0051259596431237,
+                    "down": 0,
+                    "collect": {},
+                    "collectedItems": 2
+                },
+                "key": "moonstone2",
+                "completed": null,
+                "RSVPNeeded": false
+            },
+            "order": "level",
+            "orderAscending": "ascending",
+            "_id": "9e34acf4-ca6d-4cf7-81b0-f2eacf819924"
+        },
+        "preferences": {
+            "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 4,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 12
+            },
+            "emailNotifications": {
+                "unsubscribeFromAll": true,
+                "newPM": true,
+                "kickedGroup": true,
+                "wonChallenge": true,
+                "giftedGems": true,
+                "giftedSubscription": true,
+                "invitedParty": true,
+                "invitedGuild": true,
+                "questStarted": true,
+                "invitedQuest": true,
+                "importantAnnouncements": true,
+                "weeklyRecaps": true,
+                "onboarding": true,
+                "majorUpdates": true,
+                "subscriptionReminders": true,
+                "contentRelease": true
+            },
+            "pushNotifications": {
+                "unsubscribeFromAll": false,
+                "newPM": true,
+                "wonChallenge": true,
+                "giftedGems": true,
+                "giftedSubscription": true,
+                "invitedParty": true,
+                "invitedGuild": true,
+                "questStarted": true,
+                "invitedQuest": true,
+                "majorUpdates": true,
+                "mentionParty": true,
+                "mentionJoinedGuild": true,
+                "mentionUnjoinedGuild": true,
+                "partyActivity": true,
+                "contentRelease": true
+            },
+            "suppressModals": {
+                "levelUp": false,
+                "hatchPet": false,
+                "raisePet": false,
+                "streak": false
+            },
+            "tasks": {
+                "activeFilter": {
+                    "habit": "all",
+                    "daily": "all",
+                    "todo": "remaining",
+                    "reward": "wishlist"
+                },
+                "groupByChallenge": false,
+                "confirmScoreNotes": false,
+                "mirrorGroupTasks": []
+            },
+            "language": "en",
+            "dayStart": 0,
+            "size": "slim",
+            "hideHeader": false,
+            "skin": "c3e1dc",
+            "shirt": "blue",
+            "timezoneOffset": -420,
+            "sound": "beatscribeNesTheme",
+            "chair": "none",
+            "allocationMode": "flat",
+            "autoEquip": false,
+            "costume": true,
+            "dateFormat": "MM/dd/yyyy",
+            "sleep": false,
+            "stickyHeader": true,
+            "disableClasses": false,
+            "newTaskEdit": false,
+            "dailyDueDefaultView": false,
+            "advancedCollapsed": false,
+            "toolbarCollapsed": false,
+            "reverseChatOrder": false,
+            "developerMode": true,
+            "displayInviteToPartyWhenPartyIs1": true,
+            "webhooks": {},
+            "improvementCategories": [],
+            "background": "violet",
+            "timezoneOffsetAtLastCron": -420,
+            "automaticAllocation": false
+        },
+        "profile": {
+            "name": "_Russ"
+        },
+        "stats": {
+            "buffs": {
+                "str": 11,
+                "int": 28,
+                "per": 84,
+                "con": 11,
+                "stealth": 0,
+                "streaks": false,
+                "seafoam": false,
+                "shinySeed": false,
+                "snowball": false,
+                "spookySparkles": false
+            },
+            "training": {
+                "int": 0,
+                "per": 0,
+                "str": 0,
+                "con": 0
+            },
+            "hp": 42.30451946166243,
+            "mp": 50.555648836956,
+            "exp": 197.63268616143864,
+            "gp": 248.27918196860108,
+            "lvl": 21,
+            "class": "wizard",
+            "points": 0,
+            "str": 0,
+            "con": 0,
+            "int": 18,
+            "per": 3,
+            "toNextLevel": 460,
+            "maxHealth": 50,
+            "maxMP": 264
+        },
+        "inbox": {
+            "newMessages": 0,
+            "optOut": false,
+            "blocks": [],
+            "messages": {
+                "32da1f62-4c43-477b-acc4-4c1653876bbf": {
+                    "_id": "32da1f62-4c43-477b-acc4-4c1653876bbf",
+                    "sent": false,
+                    "ownerId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+                    "uniqueMessageId": "c377e953-b220-498c-bbfd-f7cbc7852177",
+                    "flagCount": 0,
+                    "flags": {},
+                    "id": "32da1f62-4c43-477b-acc4-4c1653876bbf",
+                    "text": "Your quest can be started once the current one is done",
+                    "unformattedText": "Your quest can be started once the current one is done",
+                    "info": {},
+                    "timestamp": "2025-05-31T06:07:01.925Z",
+                    "likes": {
+                        "f69f2b7d-d727-4ae5-8744-1a9725c75d91": true
+                    },
+                    "uuid": "ef88fec0-6789-4233-b1b1-4ba3163ee970",
+                    "contributor": {},
+                    "backer": {},
+                    "user": "lucky beast",
+                    "username": "luckybeast",
+                    "userStyles": {
+                        "items": {
+                            "gear": {
+                                "equipped": {
+                                    "weapon": "weapon_special_spring2025Warrior",
+                                    "armor": "armor_special_spring2025Warrior",
+                                    "head": "head_special_spring2025Warrior",
+                                    "shield": "shield_special_spring2025Warrior",
+                                    "eyewear": "eyewear_special_greenTopFrame"
+                                }
+                            },
+                            "currentMount": "",
+                            "currentPet": "Wolf-Shade"
+                        },
+                        "preferences": {
+                            "hair": {
+                                "color": "black",
+                                "base": 0,
+                                "bangs": 3,
+                                "beard": 0,
+                                "mustache": 0,
+                                "flower": 0
+                            },
+                            "skin": "c06534",
+                            "shirt": "white",
+                            "chair": "none",
+                            "size": "broad",
+                            "background": "green",
+                            "costume": false
+                        },
+                        "stats": {
+                            "class": "warrior",
+                            "buffs": {
+                                "seafoam": false,
+                                "shinySeed": false,
+                                "spookySparkles": false,
+                                "snowball": false
+                            }
+                        }
+                    }
+                },
+                "b2bc4f88-d15f-4e64-9dd0-91d4437e783c": {
+                    "_id": "b2bc4f88-d15f-4e64-9dd0-91d4437e783c",
+                    "sent": true,
+                    "ownerId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+                    "uniqueMessageId": "55b123aa-feca-410e-b294-d4d981ec92ab",
+                    "flagCount": 0,
+                    "flags": {},
+                    "id": "b2bc4f88-d15f-4e64-9dd0-91d4437e783c",
+                    "text": "Also i have a quest too even though it's 1 star, should i just go for it or maybe start it tomorrow?",
+                    "unformattedText": "Also i have a quest too even though it's 1 star, should i just go for it or maybe start it tomorrow?",
+                    "info": {},
+                    "timestamp": "2025-05-31T04:58:03.608Z",
+                    "likes": {},
+                    "uuid": "ef88fec0-6789-4233-b1b1-4ba3163ee970",
+                    "contributor": {},
+                    "backer": {},
+                    "user": "lucky beast",
+                    "username": "luckybeast",
+                    "userStyles": {
+                        "items": {
+                            "gear": {
+                                "equipped": {
+                                    "weapon": "weapon_special_bardInstrument",
+                                    "armor": "armor_special_bardRobes",
+                                    "head": "head_special_bardHat",
+                                    "shield": "shield_base_0",
+                                    "headAccessory": "headAccessory_special_blueHeadband",
+                                    "eyewear": "eyewear_special_blueTopFrame"
+                                }
+                            },
+                            "currentMount": "Dragon-RoyalPurple",
+                            "currentPet": "Wolf-Veteran"
+                        },
+                        "preferences": {
+                            "hair": {
+                                "color": "black",
+                                "base": 0,
+                                "bangs": 1,
+                                "beard": 0,
+                                "mustache": 0,
+                                "flower": 0
+                            },
+                            "skin": "ea8349",
+                            "shirt": "black",
+                            "chair": "none",
+                            "size": "slim",
+                            "background": "violet",
+                            "costume": false
+                        },
+                        "stats": {
+                            "class": "warrior",
+                            "buffs": {
+                                "seafoam": false,
+                                "shinySeed": true,
+                                "spookySparkles": false,
+                                "snowball": false
+                            }
+                        }
+                    }
+                },
+                "ba7cc28f-9b52-4949-aab5-062d73ab6d70": {
+                    "_id": "ba7cc28f-9b52-4949-aab5-062d73ab6d70",
+                    "sent": true,
+                    "ownerId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+                    "uniqueMessageId": "e5544ca2-28fc-499c-b6ce-aaf3410b1490",
+                    "flagCount": 0,
+                    "flags": {},
+                    "id": "ba7cc28f-9b52-4949-aab5-062d73ab6d70",
+                    "text": "I'll try to accept the quest tomorrow ",
+                    "unformattedText": "I'll try to accept the quest tomorrow",
+                    "info": {},
+                    "timestamp": "2025-05-31T04:50:29.820Z",
+                    "likes": {},
+                    "uuid": "ef88fec0-6789-4233-b1b1-4ba3163ee970",
+                    "contributor": {},
+                    "backer": {},
+                    "user": "lucky beast",
+                    "username": "luckybeast",
+                    "userStyles": {
+                        "items": {
+                            "gear": {
+                                "equipped": {
+                                    "weapon": "weapon_special_bardInstrument",
+                                    "armor": "armor_special_bardRobes",
+                                    "head": "head_special_bardHat",
+                                    "shield": "shield_base_0",
+                                    "headAccessory": "headAccessory_special_blueHeadband",
+                                    "eyewear": "eyewear_special_blueTopFrame"
+                                }
+                            },
+                            "currentMount": "Dragon-RoyalPurple",
+                            "currentPet": "Wolf-Veteran"
+                        },
+                        "preferences": {
+                            "hair": {
+                                "color": "black",
+                                "base": 0,
+                                "bangs": 1,
+                                "beard": 0,
+                                "mustache": 0,
+                                "flower": 0
+                            },
+                            "skin": "ea8349",
+                            "shirt": "black",
+                            "chair": "none",
+                            "size": "slim",
+                            "background": "violet",
+                            "costume": false
+                        },
+                        "stats": {
+                            "class": "warrior",
+                            "buffs": {
+                                "seafoam": false,
+                                "shinySeed": true,
+                                "spookySparkles": false,
+                                "snowball": false
+                            }
+                        }
+                    }
+                },
+                "9e70a9c2-8351-40ce-9870-0a47ef0c6c0e": {
+                    "_id": "9e70a9c2-8351-40ce-9870-0a47ef0c6c0e",
+                    "sent": true,
+                    "ownerId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+                    "uniqueMessageId": "4529b596-e32f-4c88-a411-1a7c946bd570",
+                    "flagCount": 0,
+                    "flags": {},
+                    "id": "9e70a9c2-8351-40ce-9870-0a47ef0c6c0e",
+                    "text": "Sorry, i just woke up",
+                    "unformattedText": "Sorry, i just woke up",
+                    "info": {},
+                    "timestamp": "2025-05-31T04:48:41.727Z",
+                    "likes": {},
+                    "uuid": "ef88fec0-6789-4233-b1b1-4ba3163ee970",
+                    "contributor": {},
+                    "backer": {},
+                    "user": "lucky beast",
+                    "username": "luckybeast",
+                    "userStyles": {
+                        "items": {
+                            "gear": {
+                                "equipped": {
+                                    "weapon": "weapon_special_bardInstrument",
+                                    "armor": "armor_special_bardRobes",
+                                    "head": "head_special_bardHat",
+                                    "shield": "shield_base_0",
+                                    "headAccessory": "headAccessory_special_blueHeadband",
+                                    "eyewear": "eyewear_special_blueTopFrame"
+                                }
+                            },
+                            "currentMount": "Dragon-RoyalPurple",
+                            "currentPet": "Wolf-Veteran"
+                        },
+                        "preferences": {
+                            "hair": {
+                                "color": "black",
+                                "base": 0,
+                                "bangs": 1,
+                                "beard": 0,
+                                "mustache": 0,
+                                "flower": 0
+                            },
+                            "skin": "ea8349",
+                            "shirt": "black",
+                            "chair": "none",
+                            "size": "slim",
+                            "background": "violet",
+                            "costume": false
+                        },
+                        "stats": {
+                            "class": "warrior",
+                            "buffs": {
+                                "seafoam": false,
+                                "shinySeed": true,
+                                "spookySparkles": false,
+                                "snowball": false
+                            }
+                        }
+                    }
+                },
+                "2b0942a1-ffd4-4882-9bc9-b009b29b75ce": {
+                    "_id": "2b0942a1-ffd4-4882-9bc9-b009b29b75ce",
+                    "sent": false,
+                    "ownerId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+                    "uniqueMessageId": "a3c64b58-1476-46db-b799-55c502a90217",
+                    "flagCount": 0,
+                    "flags": {},
+                    "id": "2b0942a1-ffd4-4882-9bc9-b009b29b75ce",
+                    "text": "hellio, can you accept the quest?",
+                    "unformattedText": "hellio, can you accept the quest?",
+                    "info": {},
+                    "timestamp": "2025-05-31T03:01:12.695Z",
+                    "likes": {},
+                    "uuid": "ef88fec0-6789-4233-b1b1-4ba3163ee970",
+                    "contributor": {},
+                    "backer": {},
+                    "user": "lucky beast",
+                    "username": "luckybeast",
+                    "userStyles": {
+                        "items": {
+                            "gear": {
+                                "equipped": {
+                                    "weapon": "weapon_special_spring2025Warrior",
+                                    "armor": "armor_special_spring2025Warrior",
+                                    "head": "head_special_spring2025Warrior",
+                                    "shield": "shield_special_spring2025Warrior",
+                                    "eyewear": "eyewear_special_greenTopFrame"
+                                }
+                            },
+                            "currentMount": "",
+                            "currentPet": "Wolf-Shade"
+                        },
+                        "preferences": {
+                            "hair": {
+                                "color": "black",
+                                "base": 0,
+                                "bangs": 3,
+                                "beard": 0,
+                                "mustache": 0,
+                                "flower": 0
+                            },
+                            "skin": "c06534",
+                            "shirt": "white",
+                            "chair": "none",
+                            "size": "broad",
+                            "background": "green",
+                            "costume": false
+                        },
+                        "stats": {
+                            "class": "warrior",
+                            "buffs": {
+                                "seafoam": false,
+                                "shinySeed": false,
+                                "spookySparkles": false,
+                                "snowball": false
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "tasksOrder": {
+            "habits": [
+                "437468ae-e87c-49ea-a0a5-5e65d40f34a0",
+                "a17c7cc0-6152-4b79-abd5-ddac247ed612",
+                "7c068801-dc6f-408a-a4e2-176a9aee0522",
+                "aa99dad2-4337-4e6c-87bd-de0eb8ff9d4b",
+                "2db7a6ef-6a54-487b-a20d-31b2eced295c",
+                "d6daa0e9-56b5-48a2-bbc0-65e1ab5e2f33",
+                "9ef7fb4f-142a-43ca-99bf-387ee56cc759",
+                "41fa3128-624e-44f9-9d0c-473f3eeadc30",
+                "64f988b7-e766-4287-a0cb-8ed9f9766c3c"
+            ],
+            "dailys": [
+                "2171026b-ecb8-47a3-9712-322c53065f8c",
+                "e36f663e-7173-4ce8-8c2d-99b05eb77bf3",
+                "58dbb8d5-7dad-49d2-a248-99dfa2573d79",
+                "6226b072-a3b6-4515-8826-3dd9da04907f",
+                "531752f9-0dc1-4983-906a-d92176e37879",
+                "5145edec-7a17-4ba3-805f-f5264c730ebd",
+                "ea509ea8-7362-464b-bca4-c0f396dc552f",
+                "46314bd2-9d5e-4ae5-920f-78154f259c32",
+                "e31f6e92-ea5b-4321-899f-fc38de1e7b41",
+                "6255b9d7-4ca6-4cdd-9360-5ae11cca9a4c",
+                "60131876-67ea-4244-b0ce-ad46cd86a729",
+                "e786bfef-4f12-414e-a87a-6d803b020939",
+                "1f27d4e2-37e6-4e6f-882d-a42f961bca41"
+            ],
+            "todos": [
+                "d779576a-9cfc-4730-a6ca-b2cc60d3a7bc",
+                "aee4218f-95a1-45bf-aae1-1a2f8467b3dc",
+                "db276921-8519-49a1-a4f7-478bfebf4073",
+                "461712e0-b43d-48c3-8646-19d5a8a3e871",
+                "91e9f76b-a189-4c12-8b3d-7fd16ecd97c1",
+                "c35f3252-88a2-4b66-bf27-e323f09e55f5",
+                "8668e65f-40f0-4c8d-8887-94965cb61fcf",
+                "adc3d56d-1b74-4118-80bb-9f1af8a62ec6",
+                "98167272-5f94-44b6-9f0f-a0d7e9e20698"
+            ],
+            "rewards": []
+        },
+        "_id": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+        "_v": 2639,
+        "balance": 3,
+        "_subSignature": "NOT_RUNNING",
+        "challenges": [
+            "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358",
+            "2473383e-7554-4598-8ad0-dfb171d7f914"
+        ],
+        "guilds": [],
+        "loginIncentives": 44,
+        "invitesSent": 0,
+        "pinnedItemsOrder": [],
+        "lastCron": "2025-06-13T17:33:42.907Z",
+        "newMessages": {
+            "9e34acf4-ca6d-4cf7-81b0-f2eacf819924": {
+                "name": "Lucky Beasts",
+                "value": true
+            }
+        },
+        "notifications": [
+            {
+                "id": "51b76901-fd97-45e7-a94a-956712dc60dc",
+                "type": "NEW_CHAT_MESSAGE",
+                "data": {
+                    "group": {
+                        "id": "9e34acf4-ca6d-4cf7-81b0-f2eacf819924",
+                        "name": "Lucky Beasts"
+                    }
+                },
+                "seen": false
+            }
+        ],
+        "tags": [
+            {
+                "id": "985b6925-5077-44e7-826e-09bfb2d12529",
+                "name": "Spiritual "
+            },
+            {
+                "name": "Health",
+                "id": "49af142a-00d0-412c-a203-51e1a0b774b1"
+            },
+            {
+                "name": "Routine",
+                "id": "61bd981e-c67a-48c0-8658-ce2c1af10167"
+            },
+            {
+                "name": "Coding",
+                "id": "c3af6ab7-4ea3-4f67-be6a-3f87554ce857"
+            },
+            {
+                "id": "4c7aedb3-0b74-4c30-9868-035a9cdee51c",
+                "name": "Take This May 2025",
+                "challenge": false
+            },
+            {
+                "id": "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358",
+                "name": "NYR Jun 2025",
+                "challenge": true
+            },
+            {
+                "id": "2473383e-7554-4598-8ad0-dfb171d7f914",
+                "name": "clean-jun25",
+                "challenge": true
+            },
+            {
+                "name": "System",
+                "id": "e86e773b-5b51-4a1a-a2f2-9a83dfbb6316"
+            },
+            {
+                "name": "Study",
+                "id": "489fc6d7-f4d3-4b33-82eb-d274264053c0"
+            }
+        ],
+        "extra": {},
+        "pushDevices": [
+            {
+                "regId": "cfZvgH4IRUGzAbar-v3Yfc:APA91bF0rzPQ25oC1SFK74I0KDXwnYnfFL9t09eus7WDPW3T5cfHGU9ggZxU5ByWpxdZ1PFFeMcY351gEEj2ZnMrXm6VjJqiV6V1vBHYFfzuseZswreHdZs",
+                "type": "android",
+                "createdAt": "2025-02-10T13:26:39.159Z",
+                "updatedAt": "2025-06-13T17:34:04.221Z"
+            }
+        ],
+        "webhooks": [],
+        "pinnedItems": [
+            {
+                "path": "potion",
+                "type": "potion"
+            },
+            {
+                "path": "armoire",
+                "type": "armoire"
+            }
+        ],
+        "unpinnedItems": [
+            {
+                "path": "gear.flat.weapon_special_winter2025Warrior",
+                "type": "marketGear"
+            },
+            {
+                "path": "gear.flat.armor_special_spring2025Mage",
+                "type": "marketGear"
+            },
+            {
+                "path": "gear.flat.head_special_spring2025Mage",
+                "type": "marketGear"
+            }
+        ],
+        "migration": "202505_take_this",
+        "id": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+        "needsCron": false
+    }
+}

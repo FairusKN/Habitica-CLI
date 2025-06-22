@@ -1,7 +1,7 @@
 from typing import Any
 
-from cache import get_data_with_cache
-from logger import log
+from .cache import get_data_with_cache
+from .logger import log
 
 
 def get_UserStats() -> None:

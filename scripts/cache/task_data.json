@@ -1,0 +1,3733 @@
+{
+    "timestamp": "2025-06-17T02:23:29.302049",
+    "data": [
+        {
+            "_id": "437468ae-e87c-49ea-a0a5-5e65d40f34a0",
+            "type": "habit",
+            "text": "Use Breathing Method to Calm Down",
+            "notes": "",
+            "tags": [],
+            "value": 0.4109556410807299,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "up": true,
+            "down": false,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "daily",
+            "history": [
+                {
+                    "date": 1749040877679,
+                    "value": 1.9747,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749124212350,
+                    "value": 3.853133245658556,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749206553872,
+                    "value": 2.8783961533793683,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749298973152,
+                    "value": 2.402989629886902,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749374030225,
+                    "value": 2.1711750051962064,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749466563852,
+                    "value": 4.836756717816986,
+                    "scoredUp": 4,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749550151390,
+                    "value": 3.358287309158831,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749597611555,
+                    "value": 2.637027288882952,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749836026516,
+                    "value": 1.3212170774539134,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749921234504,
+                    "value": 1.6438225643229196,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                }
+            ],
+            "createdAt": "2025-06-04T10:56:32.401Z",
+            "updatedAt": "2025-06-17T00:19:47.494Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "437468ae-e87c-49ea-a0a5-5e65d40f34a0"
+        },
+        {
+            "_id": "a17c7cc0-6152-4b79-abd5-ddac247ed612",
+            "type": "habit",
+            "text": "Recite Qur'an ",
+            "notes": "Builds faith",
+            "tags": [
+                "985b6925-5077-44e7-826e-09bfb2d12529"
+            ],
+            "value": 0.14334634180814257,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "byHabitica": false,
+            "up": true,
+            "down": false,
+            "counterUp": 2,
+            "counterDown": 0,
+            "frequency": "monthly",
+            "history": [
+                {
+                    "date": 1747699134349,
+                    "value": 1,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1747925970945,
+                    "value": 1.243614090235369,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1747996169731,
+                    "value": 1.6059991759714958,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748249787819,
+                    "value": 1.1956187803318512,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748385286819,
+                    "value": 1.5826069391053483,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748626078074,
+                    "value": 1.09638144523442,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748777261479,
+                    "value": 3.4337370372959244,
+                    "scoredUp": 3,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749040883563,
+                    "value": 4.241720933262751,
+                    "scoredUp": 4,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749139953234,
+                    "value": 6.6396101857815735,
+                    "scoredUp": 5,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749469034352,
+                    "value": 1.4043979995238236,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749639378191,
+                    "value": 1.342142735866795,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749828196518,
+                    "value": 2.293541468930281,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                }
+            ],
+            "reminders": [],
+            "createdAt": "2025-05-19T23:56:06.822Z",
+            "updatedAt": "2025-06-17T00:19:47.434Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "a17c7cc0-6152-4b79-abd5-ddac247ed612"
+        },
+        {
+            "_id": "7c068801-dc6f-408a-a4e2-176a9aee0522",
+            "type": "habit",
+            "text": "Alhamdulillah when something happen",
+            "notes": "",
+            "tags": [
+                "985b6925-5077-44e7-826e-09bfb2d12529"
+            ],
+            "value": 0.5132577290353895,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "byHabitica": false,
+            "up": true,
+            "down": false,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "daily",
+            "history": [
+                {
+                    "date": 1748697526907,
+                    "value": 1.9747,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748759613216,
+                    "value": 1.9623660130663714,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748880979350,
+                    "value": 3.835659079205642,
+                    "scoredUp": 3,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748923684371,
+                    "value": 2.869872201544855,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749020062176,
+                    "value": 2.3988329206623966,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749206553635,
+                    "value": 2.54466850264688,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749453988840,
+                    "value": 1.3099656271970361,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749597610836,
+                    "value": 1.3191343759147696,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749995567465,
+                    "value": 2.053030916141558,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                }
+            ],
+            "reminders": [],
+            "createdAt": "2025-05-31T09:51:42.749Z",
+            "updatedAt": "2025-06-17T00:19:47.492Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "7c068801-dc6f-408a-a4e2-176a9aee0522"
+        },
+        {
+            "_id": "aa99dad2-4337-4e6c-87bd-de0eb8ff9d4b",
+            "type": "habit",
+            "text": "Istighfar When Doing Sin",
+            "notes": "",
+            "tags": [
+                "985b6925-5077-44e7-826e-09bfb2d12529"
+            ],
+            "value": 0,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "up": true,
+            "down": false,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "daily",
+            "history": [
+                {
+                    "date": 1747819729889,
+                    "value": 1,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1747925973555,
+                    "value": 1.48726896031426,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1747996170885,
+                    "value": 1.7247588578669344,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748064882038,
+                    "value": 1.840522876657037,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748116539543,
+                    "value": 1.8969551222258778,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748294919107,
+                    "value": 1.4621596970593398,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748607029202,
+                    "value": 1.178097332620288,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748696566482,
+                    "value": 6.15365552010727,
+                    "scoredUp": 6,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748772803107,
+                    "value": 4.001010555494928,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748880976029,
+                    "value": 5.667764621344069,
+                    "scoredUp": 4,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748923688792,
+                    "value": 3.763836655004642,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749093324095,
+                    "value": 1.9171349559040567,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749206554243,
+                    "value": 1.9343028967944724,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749481707181,
+                    "value": 1.2356110710141797,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                }
+            ],
+            "createdAt": "2025-05-20T11:35:40.823Z",
+            "updatedAt": "2025-06-13T17:33:42.967Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "aa99dad2-4337-4e6c-87bd-de0eb8ff9d4b"
+        },
+        {
+            "_id": "2db7a6ef-6a54-487b-a20d-31b2eced295c",
+            "type": "habit",
+            "text": "Code / Study for 30+ min",
+            "notes": "",
+            "tags": [
+                "c3af6ab7-4ea3-4f67-be6a-3f87554ce857"
+            ],
+            "value": 1.025550267604123,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "byHabitica": false,
+            "up": true,
+            "down": false,
+            "counterUp": 6,
+            "counterDown": 0,
+            "frequency": "monthly",
+            "history": [
+                {
+                    "date": 1747862936254,
+                    "value": 1,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1747862943055,
+                    "value": 3.853133245658556,
+                    "scoredUp": 4,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748064870674,
+                    "value": 8.153718893304358,
+                    "scoredUp": 8,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748116534388,
+                    "value": 4.977659685930931,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748294942845,
+                    "value": 2.21302919406377,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748607021511,
+                    "value": 1.2695649546278112,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748697531670,
+                    "value": 2.578017160469697,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748770397852,
+                    "value": 3.200332210800596,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748880982961,
+                    "value": 4.41079182618906,
+                    "scoredUp": 3,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748932175169,
+                    "value": 4.072889611783709,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749453982100,
+                    "value": 2.9843463034832562,
+                    "scoredUp": 3,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749778897324,
+                    "value": 1.1817533293750493,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749836038950,
+                    "value": 2.536271672560442,
+                    "scoredUp": 2,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749921239314,
+                    "value": 4.102201070416492,
+                    "scoredUp": 3,
+                    "scoredDown": 0
+                }
+            ],
+            "reminders": [],
+            "createdAt": "2025-05-20T00:00:02.526Z",
+            "updatedAt": "2025-06-17T00:19:47.436Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "2db7a6ef-6a54-487b-a20d-31b2eced295c"
+        },
+        {
+            "_id": "d6daa0e9-56b5-48a2-bbc0-65e1ab5e2f33",
+            "type": "habit",
+            "text": "Hit/not snooze button",
+            "notes": "Not applied when it's day off",
+            "tags": [
+                "61bd981e-c67a-48c0-8658-ce2c1af10167"
+            ],
+            "value": 2.925357058161083,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "byHabitica": false,
+            "up": true,
+            "down": true,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "monthly",
+            "history": [
+                {
+                    "date": 1747819713562,
+                    "value": -1.026657310999762,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1747862982094,
+                    "value": 4.7248694068358077e-07,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1747996225127,
+                    "value": 1.000000460379204,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748064859651,
+                    "value": 8.98080931621692e-07,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1748249795961,
+                    "value": 1.000000875067116,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748294808449,
+                    "value": 1.9747008532103714,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748870091553,
+                    "value": 2.925357058161083,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                }
+            ],
+            "reminders": [],
+            "createdAt": "2025-05-20T00:01:06.767Z",
+            "updatedAt": "2025-06-12T05:13:31.747Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "d6daa0e9-56b5-48a2-bbc0-65e1ab5e2f33"
+        },
+        {
+            "_id": "9ef7fb4f-142a-43ca-99bf-387ee56cc759",
+            "type": "habit",
+            "text": "Procrastinated sleep after 10PM",
+            "notes": "Not applied when its day off unless tomorrow have something important",
+            "tags": [
+                "61bd981e-c67a-48c0-8658-ce2c1af10167"
+            ],
+            "value": 0,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "up": false,
+            "down": true,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "daily",
+            "history": [
+                {
+                    "date": 1747928731810,
+                    "value": -1.026657310999762,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1748186255044,
+                    "value": -1.689381903234705,
+                    "scoredUp": 0,
+                    "scoredDown": 2
+                },
+                {
+                    "date": 1748828088449,
+                    "value": -1.026657310999762,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                },
+                {
+                    "date": 1748967596458,
+                    "value": -1.5539525155173857,
+                    "scoredUp": 0,
+                    "scoredDown": 1
+                }
+            ],
+            "createdAt": "2025-05-20T11:10:19.762Z",
+            "updatedAt": "2025-06-08T04:36:23.328Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "9ef7fb4f-142a-43ca-99bf-387ee56cc759"
+        },
+        {
+            "_id": "41fa3128-624e-44f9-9d0c-473f3eeadc30",
+            "type": "habit",
+            "text": "A Step Forward!",
+            "notes": "Reward yourself when you make positive progress in refining and pursuing your goal!",
+            "tags": [
+                "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358"
+            ],
+            "value": 0.25,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {
+                "shortName": "NYR Jun 2025",
+                "id": "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358",
+                "taskId": "9163af3e-36b5-4f77-a298-ae05ba9b4823"
+            },
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "up": true,
+            "down": false,
+            "counterUp": 7,
+            "counterDown": 0,
+            "frequency": "monthly",
+            "history": [
+                {
+                    "date": 1748616457524,
+                    "value": 1,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748684826981,
+                    "value": 1.48726896031426,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748770403294,
+                    "value": 1.7247588578669344,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748869745068,
+                    "value": 1.840522876657037,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1748967589401,
+                    "value": 1.8969551222258778,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749170932948,
+                    "value": 1.2310614995093863,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749297763893,
+                    "value": 1.5998811844092469,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749453995778,
+                    "value": 1.3897731849243433,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                },
+                {
+                    "date": 1749985239136,
+                    "value": 1,
+                    "scoredUp": 1,
+                    "scoredDown": 0
+                }
+            ],
+            "createdAt": "2025-05-30T14:45:45.029Z",
+            "updatedAt": "2025-06-17T00:19:47.470Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "41fa3128-624e-44f9-9d0c-473f3eeadc30"
+        },
+        {
+            "_id": "64f988b7-e766-4287-a0cb-8ed9f9766c3c",
+            "type": "habit",
+            "text": "Share Your Progress on Social Media",
+            "notes": "Increase accountability by sharing your progress with friends! You can be as specific or general as you like. Include a tag/link to Habitica :) **Note that completing this Habit is not a requirement to be eligible to win the Challenge*",
+            "tags": [
+                "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358"
+            ],
+            "value": 0,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {
+                "shortName": "NYR Jun 2025",
+                "id": "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358",
+                "taskId": "a466d1b9-c6be-43ed-b5d4-7fef367d0ded"
+            },
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "up": true,
+            "down": false,
+            "counterUp": 0,
+            "counterDown": 0,
+            "frequency": "monthly",
+            "history": [],
+            "createdAt": "2025-05-30T14:45:45.030Z",
+            "updatedAt": "2025-05-30T14:45:45.030Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "64f988b7-e766-4287-a0cb-8ed9f9766c3c"
+        },
+        {
+            "_id": "2171026b-ecb8-47a3-9712-322c53065f8c",
+            "type": "daily",
+            "text": "Do Prayer",
+            "notes": "",
+            "tags": [
+                "985b6925-5077-44e7-826e-09bfb2d12529"
+            ],
+            "value": 20.677718136622058,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "daily",
+            "everyX": 1,
+            "startDate": "2025-05-20T17:00:00.000Z",
+            "repeat": {
+                "m": true,
+                "t": true,
+                "w": true,
+                "th": true,
+                "f": true,
+                "s": true,
+                "su": true
+            },
+            "streak": 27,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-17T17:00:00.000Z",
+                "2025-06-18T17:00:00.000Z",
+                "2025-06-19T17:00:00.000Z",
+                "2025-06-20T17:00:00.000Z",
+                "2025-06-21T17:00:00.000Z",
+                "2025-06-22T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1747795187979,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747858535740,
+                    "value": 1,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1747926725707,
+                    "value": 1.9747,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748015121845,
+                    "value": 2.9253562257358428,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748097092812,
+                    "value": 3.853133245658556,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748185744249,
+                    "value": 4.759112700885761,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748284850554,
+                    "value": 5.6443010177121415,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748385268417,
+                    "value": 6.5096362419810205,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748387981819,
+                    "value": 7.355994112832055,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748528070662,
+                    "value": 8.184193475367,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748624910135,
+                    "value": 8.995001116880612,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748693206817,
+                    "value": 9.789136098905757,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748801071118,
+                    "value": 10.567273646958993,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748881005559,
+                    "value": 11.330048651176607,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748967565531,
+                    "value": 12.07805882370548,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749044388675,
+                    "value": 12.811867552519566,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749140181660,
+                    "value": 13.53200648607811,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749227819285,
+                    "value": 14.23897787876845,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749298925568,
+                    "value": 14.933256723256155,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749396137643,
+                    "value": 15.615292692592663,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749481714186,
+                    "value": 16.28551191211884,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749556892701,
+                    "value": 16.94431857878008,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749650383901,
+                    "value": 17.59209644337522,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749750496627,
+                    "value": 18.229210169447946,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749836022636,
+                    "value": 18.856006580954404,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749920699538,
+                    "value": 19.472815809469076,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750037143147,
+                    "value": 20.07995235049423,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750119587116,
+                    "value": 20.677718136622058,
+                    "isDue": true,
+                    "completed": true
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [
+                {
+                    "completed": true,
+                    "text": "Shubuh",
+                    "id": "318ca71e-9910-48ee-b3d4-3ad9325fad69"
+                },
+                {
+                    "completed": false,
+                    "text": "Dzuhur",
+                    "id": "0159d339-2eb7-461b-9654-ddaea26d7cab"
+                },
+                {
+                    "completed": false,
+                    "text": "Ashar",
+                    "id": "09f9e7c1-654d-4352-892d-a946164281bf"
+                },
+                {
+                    "completed": false,
+                    "text": "Maghrib",
+                    "id": "109eb1c2-ce93-432c-8010-8262fc828aea"
+                },
+                {
+                    "completed": false,
+                    "text": "Isya",
+                    "id": "9be0cb9d-4e48-4b79-ae71-ab79983ec0ee"
+                }
+            ],
+            "createdAt": "2025-05-20T11:13:57.744Z",
+            "updatedAt": "2025-06-17T02:23:09.280Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": true,
+            "id": "2171026b-ecb8-47a3-9712-322c53065f8c"
+        },
+        {
+            "_id": "e36f663e-7173-4ce8-8c2d-99b05eb77bf3",
+            "type": "daily",
+            "text": "Daily Exercise",
+            "notes": "",
+            "tags": [
+                "49af142a-00d0-412c-a203-51e1a0b774b1",
+                "61bd981e-c67a-48c0-8658-ce2c1af10167"
+            ],
+            "value": 20.089039134248985,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "daily",
+            "everyX": 1,
+            "startDate": "2025-05-19T17:00:00.000Z",
+            "repeat": {
+                "m": true,
+                "t": true,
+                "w": true,
+                "th": true,
+                "f": true,
+                "s": true,
+                "su": true
+            },
+            "streak": 27,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-17T17:00:00.000Z",
+                "2025-06-18T17:00:00.000Z",
+                "2025-06-19T17:00:00.000Z",
+                "2025-06-20T17:00:00.000Z",
+                "2025-06-21T17:00:00.000Z",
+                "2025-06-22T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1747741235386,
+                    "value": 1,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1747819704050,
+                    "value": 1.9747,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1747871283141,
+                    "value": 2.9253562257358428,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1747996156906,
+                    "value": 3.853133245658556,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748116529305,
+                    "value": 4.759112700885761,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748185745766,
+                    "value": 5.6443010177121415,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748250840090,
+                    "value": 6.5096362419810205,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748294815472,
+                    "value": 7.355994112832055,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748387981822,
+                    "value": 8.184193475367,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748528072157,
+                    "value": 8.995001116880612,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748607009824,
+                    "value": 9.789136098905757,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748677904119,
+                    "value": 10.567273646958993,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748764305107,
+                    "value": 11.330048651176607,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748870080288,
+                    "value": 12.07805882370548,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748937448174,
+                    "value": 12.811867552519566,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749033815190,
+                    "value": 13.53200648607811,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749124589783,
+                    "value": 14.23897787876845,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749170639430,
+                    "value": 14.933256723256155,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749298926352,
+                    "value": 15.615292692592663,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749374025182,
+                    "value": 16.28551191211884,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749466736794,
+                    "value": 16.94431857878008,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749550142796,
+                    "value": 17.59209644337522,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749597597271,
+                    "value": 18.229210169447946,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749722988473,
+                    "value": 18.856006580954404,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749836022638,
+                    "value": 19.472815809469076,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749920699540,
+                    "value": 20.07995235049423,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749921525094,
+                    "value": 20.677716037391143,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750119587418,
+                    "value": 20.089039134248985,
+                    "isDue": true,
+                    "completed": false
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [
+                {
+                    "completed": false,
+                    "text": "10 PushUps",
+                    "id": "8dd32745-28ce-467f-a275-a3b6e22da27b"
+                },
+                {
+                    "completed": false,
+                    "text": "1m Plank",
+                    "id": "be5aac01-2d39-4e91-8f95-3c37cb3fa2b7"
+                },
+                {
+                    "completed": false,
+                    "text": "10 Squats",
+                    "id": "4579cdb3-c443-48be-bba4-54dc22251751"
+                }
+            ],
+            "createdAt": "2025-05-20T11:40:22.120Z",
+            "updatedAt": "2025-06-17T00:19:47.467Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": true,
+            "id": "e36f663e-7173-4ce8-8c2d-99b05eb77bf3"
+        },
+        {
+            "_id": "58dbb8d5-7dad-49d2-a248-99dfa2573d79",
+            "type": "daily",
+            "text": "Brush My Teeth",
+            "notes": "",
+            "tags": [
+                "61bd981e-c67a-48c0-8658-ce2c1af10167"
+            ],
+            "value": 8.200866134855467,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "daily",
+            "everyX": 1,
+            "startDate": "2025-06-05T17:00:00.000Z",
+            "repeat": {
+                "m": true,
+                "t": true,
+                "w": true,
+                "th": true,
+                "f": true,
+                "s": true,
+                "su": true
+            },
+            "streak": 12,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-17T17:00:00.000Z",
+                "2025-06-18T17:00:00.000Z",
+                "2025-06-19T17:00:00.000Z",
+                "2025-06-20T17:00:00.000Z",
+                "2025-06-21T17:00:00.000Z",
+                "2025-06-22T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1749170576745,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749170641094,
+                    "value": 1,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749280195310,
+                    "value": 1.9747,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749397051941,
+                    "value": 2.9253562257358428,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749460045821,
+                    "value": 3.853133245658556,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749556897946,
+                    "value": 4.759112700885761,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749597598783,
+                    "value": 5.6443010177121415,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749728997952,
+                    "value": 6.5096362419810205,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749778864596,
+                    "value": 7.355994112832055,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749920699542,
+                    "value": 8.184193475367,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749991136923,
+                    "value": 8.995001116880612,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750119587420,
+                    "value": 8.200866134855467,
+                    "isDue": true,
+                    "completed": false
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-06-05T15:19:16.035Z",
+            "updatedAt": "2025-06-17T00:19:47.496Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": true,
+            "id": "58dbb8d5-7dad-49d2-a248-99dfa2573d79"
+        },
+        {
+            "_id": "6226b072-a3b6-4515-8826-3dd9da04907f",
+            "type": "daily",
+            "text": "Clean My Room",
+            "notes": "",
+            "tags": [
+                "61bd981e-c67a-48c0-8658-ce2c1af10167"
+            ],
+            "value": 18.253859419491892,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "daily",
+            "everyX": 1,
+            "startDate": "2025-05-20T17:00:00.000Z",
+            "repeat": {
+                "m": true,
+                "t": true,
+                "w": true,
+                "th": true,
+                "f": true,
+                "s": true,
+                "su": true
+            },
+            "streak": 21,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-17T17:00:00.000Z",
+                "2025-06-18T17:00:00.000Z",
+                "2025-06-19T17:00:00.000Z",
+                "2025-06-20T17:00:00.000Z",
+                "2025-06-21T17:00:00.000Z",
+                "2025-06-22T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1747795187983,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747821261896,
+                    "value": 1,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1747871282141,
+                    "value": 1.9747,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1747996155995,
+                    "value": 2.9253562257358428,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748097232440,
+                    "value": 3.853133245658556,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748249766439,
+                    "value": 2.9471537904313507,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748250840201,
+                    "value": 3.8744127224477047,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748294810556,
+                    "value": 4.779898283338984,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748387988390,
+                    "value": 5.664615237293863,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748606675844,
+                    "value": 6.529500117287426,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748606691100,
+                    "value": 7.375427282413088,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748677754107,
+                    "value": 8.203214316256297,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748759555120,
+                    "value": 9.013626850642872,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748869750858,
+                    "value": 9.80738288674894,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748936793457,
+                    "value": 10.585156675239185,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749040873086,
+                    "value": 11.347582208438782,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749136080878,
+                    "value": 12.09525637024754,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749227821858,
+                    "value": 12.828741783335103,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749298931283,
+                    "value": 13.548569387921084,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749374026198,
+                    "value": 14.255240781987386,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749460544116,
+                    "value": 14.94923034896358,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749543602758,
+                    "value": 15.630987195665336,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749650384870,
+                    "value": 16.300936920463883,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749722989717,
+                    "value": 16.959483229250008,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749828259127,
+                    "value": 17.607009414669722,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749920699545,
+                    "value": 18.243879712301215,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749972748314,
+                    "value": 18.870440545872672,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750119587417,
+                    "value": 18.253859419491892,
+                    "isDue": true,
+                    "completed": false
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-05-20T11:36:50.884Z",
+            "updatedAt": "2025-06-17T00:19:47.463Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": true,
+            "id": "6226b072-a3b6-4515-8826-3dd9da04907f"
+        },
+        {
+            "_id": "531752f9-0dc1-4983-906a-d92176e37879",
+            "type": "daily",
+            "text": "Clean Every Day",
+            "notes": "a little bit of cleaning, no matter how big or small. If not today, then when?",
+            "tags": [
+                "2473383e-7554-4598-8ad0-dfb171d7f914"
+            ],
+            "value": 12.82503509338777,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {
+                "shortName": "clean-jun25",
+                "id": "2473383e-7554-4598-8ad0-dfb171d7f914",
+                "taskId": "6e669274-5a00-43bc-939a-9659e4a85ded"
+            },
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "daily",
+            "everyX": 1,
+            "startDate": "2025-05-31T22:00:00.000Z",
+            "repeat": {
+                "m": true,
+                "t": true,
+                "w": true,
+                "th": true,
+                "f": true,
+                "s": true,
+                "su": true
+            },
+            "streak": 0,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-17T17:00:00.000Z",
+                "2025-06-18T17:00:00.000Z",
+                "2025-06-19T17:00:00.000Z",
+                "2025-06-20T17:00:00.000Z",
+                "2025-06-21T17:00:00.000Z",
+                "2025-06-22T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1748624910506,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748677760773,
+                    "value": 1,
+                    "isDue": false,
+                    "completed": true
+                },
+                {
+                    "date": 1748759587150,
+                    "value": 1.9747,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748869752285,
+                    "value": 2.9253562257358428,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748923697439,
+                    "value": 3.853133245658556,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749022785350,
+                    "value": 4.759112700885761,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749111311185,
+                    "value": 5.6443010177121415,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749170643144,
+                    "value": 6.5096362419810205,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749280194286,
+                    "value": 7.355994112832055,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749397052897,
+                    "value": 8.184193475367,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749469041834,
+                    "value": 8.995001116880612,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749556894320,
+                    "value": 9.789136098905757,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749597601729,
+                    "value": 10.567273646958993,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749728999728,
+                    "value": 11.330048651176607,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749778867217,
+                    "value": 12.07805882370548,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749920699547,
+                    "value": 12.811867552519566,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749972749680,
+                    "value": 13.53200648607811,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750119587419,
+                    "value": 12.82503509338777,
+                    "isDue": true,
+                    "completed": false
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-05-30T14:46:18.394Z",
+            "updatedAt": "2025-06-17T00:19:47.490Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": true,
+            "id": "531752f9-0dc1-4983-906a-d92176e37879"
+        },
+        {
+            "_id": "5145edec-7a17-4ba3-805f-f5264c730ebd",
+            "type": "daily",
+            "text": "Drink a Bottle of Water",
+            "notes": "",
+            "tags": [
+                "49af142a-00d0-412c-a203-51e1a0b774b1"
+            ],
+            "value": 19.486086723575195,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "daily",
+            "everyX": 1,
+            "startDate": "2025-05-20T17:00:00.000Z",
+            "repeat": {
+                "m": true,
+                "t": true,
+                "w": true,
+                "th": true,
+                "f": true,
+                "s": true,
+                "su": true
+            },
+            "streak": 19,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-17T17:00:00.000Z",
+                "2025-06-18T17:00:00.000Z",
+                "2025-06-19T17:00:00.000Z",
+                "2025-06-20T17:00:00.000Z",
+                "2025-06-21T17:00:00.000Z",
+                "2025-06-22T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1747795187980,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747821263006,
+                    "value": 1,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1747926728073,
+                    "value": 1.9747,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748064852283,
+                    "value": 2.9253562257358428,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748092777710,
+                    "value": 3.853133245658556,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748185760091,
+                    "value": 4.759112700885761,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748284850556,
+                    "value": 5.6443010177121415,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748385273795,
+                    "value": 6.5096362419810205,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748495682908,
+                    "value": 5.663278371129986,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748606675848,
+                    "value": 6.528192880794646,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748606693652,
+                    "value": 7.374148383813839,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748697550796,
+                    "value": 8.201962546733101,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748760291660,
+                    "value": 9.012401077366036,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748869753619,
+                    "value": 9.806182046623045,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748949175278,
+                    "value": 10.583979769281111,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749044389893,
+                    "value": 11.34642829671213,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749136083857,
+                    "value": 12.094124567288551,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749170644649,
+                    "value": 12.827631254013864,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749298933054,
+                    "value": 13.54747934368917,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749375375493,
+                    "value": 14.25417047746936,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749481716517,
+                    "value": 14.948179078855189,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749543607358,
+                    "value": 15.629954291905806,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749597605940,
+                    "value": 16.29992174965373,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749722990897,
+                    "value": 16.958485190289174,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749778869660,
+                    "value": 17.606027936593833,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749920699549,
+                    "value": 18.242914252296327,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749972753263,
+                    "value": 18.869490587451097,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750119587127,
+                    "value": 19.486086723575195,
+                    "isDue": true,
+                    "completed": true
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-05-20T11:17:54.460Z",
+            "updatedAt": "2025-06-17T00:19:47.445Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": true,
+            "id": "5145edec-7a17-4ba3-805f-f5264c730ebd"
+        },
+        {
+            "_id": "ea509ea8-7362-464b-bca4-c0f396dc552f",
+            "type": "daily",
+            "text": "TKA/SNBT Prep +15 minutes",
+            "notes": "Study any TKA/SNBT related for +15 minutes/day",
+            "tags": [
+                "489fc6d7-f4d3-4b33-82eb-d274264053c0"
+            ],
+            "value": 3.853133245658556,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "daily",
+            "everyX": 1,
+            "startDate": "2025-06-12T17:00:00.000Z",
+            "repeat": {
+                "m": true,
+                "t": true,
+                "w": true,
+                "th": true,
+                "f": true,
+                "s": true,
+                "su": true
+            },
+            "streak": 4,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-17T17:00:00.000Z",
+                "2025-06-18T17:00:00.000Z",
+                "2025-06-19T17:00:00.000Z",
+                "2025-06-20T17:00:00.000Z",
+                "2025-06-21T17:00:00.000Z",
+                "2025-06-22T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1749750496927,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749778876782,
+                    "value": 1,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749836033281,
+                    "value": 1.9747,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749991133731,
+                    "value": 2.9253562257358428,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750119587129,
+                    "value": 3.853133245658556,
+                    "isDue": true,
+                    "completed": true
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-06-12T07:39:03.822Z",
+            "updatedAt": "2025-06-17T00:19:47.499Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": true,
+            "id": "ea509ea8-7362-464b-bca4-c0f396dc552f"
+        },
+        {
+            "_id": "46314bd2-9d5e-4ae5-920f-78154f259c32",
+            "type": "daily",
+            "text": "Night Shutdown",
+            "notes": "",
+            "tags": [
+                "61bd981e-c67a-48c0-8658-ce2c1af10167"
+            ],
+            "value": 10.452507853383914,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "daily",
+            "everyX": 1,
+            "startDate": "2025-05-20T17:00:00.000Z",
+            "repeat": {
+                "m": true,
+                "t": true,
+                "w": true,
+                "th": true,
+                "f": true,
+                "s": true,
+                "su": true
+            },
+            "streak": 17,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-17T17:00:00.000Z",
+                "2025-06-18T17:00:00.000Z",
+                "2025-06-19T17:00:00.000Z",
+                "2025-06-20T17:00:00.000Z",
+                "2025-06-21T17:00:00.000Z",
+                "2025-06-22T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1747795187980,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747858536103,
+                    "value": -1,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1747928708061,
+                    "value": 0.025956704627064786,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748064852657,
+                    "value": -0.3071549841714098,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748116529597,
+                    "value": -1.3150570567190538,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748249766436,
+                    "value": -2.3493303595602795,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748284850559,
+                    "value": -1.28727836889667,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748387964701,
+                    "value": -2.320815692384101,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748495682907,
+                    "value": -3.382091920910892,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748606676143,
+                    "value": -4.472626436849874,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748624910137,
+                    "value": -3.3511865175274442,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748697698941,
+                    "value": -2.2615153279959097,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748801071121,
+                    "value": -1.2018505946752507,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748878507429,
+                    "value": -0.17057334765696752,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748967573555,
+                    "value": 0.8338072546988129,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749056426568,
+                    "value": 1.8126671394036826,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749136087122,
+                    "value": 2.7672788679547557,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749232203745,
+                    "value": 3.698821766827106,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749357383001,
+                    "value": 4.608390843819732,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749403499586,
+                    "value": 5.497004661100023,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749481722801,
+                    "value": 6.3656123083460585,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749556900862,
+                    "value": 7.215099596872645,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749661472035,
+                    "value": 8.046294577069458,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749750496629,
+                    "value": 8.859972466111982,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749836022640,
+                    "value": 9.656860060123615,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749920699551,
+                    "value": 10.437639694290656,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750037143150,
+                    "value": 11.202952805478013,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750119587414,
+                    "value": 10.452507853383914,
+                    "isDue": true,
+                    "completed": false
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [
+                {
+                    "completed": false,
+                    "text": "Close Distraction (Not scrolling Social Media)",
+                    "id": "c0786845-646b-4021-bc6e-dfdf3d46697e"
+                },
+                {
+                    "completed": false,
+                    "text": "Plan for Tomorrow",
+                    "id": "58ef84ed-fc6d-4e9f-80e6-bbc1650b74ab"
+                },
+                {
+                    "completed": false,
+                    "text": "Meditate / Breath Reflection",
+                    "id": "219371bf-b98b-4a85-9718-36ff77518101"
+                }
+            ],
+            "createdAt": "2025-05-20T11:16:33.992Z",
+            "updatedAt": "2025-06-17T00:19:47.443Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": true,
+            "id": "46314bd2-9d5e-4ae5-920f-78154f259c32"
+        },
+        {
+            "_id": "e31f6e92-ea5b-4321-899f-fc38de1e7b41",
+            "type": "daily",
+            "text": "Full Exercise 3x/Week",
+            "notes": "",
+            "tags": [
+                "49af142a-00d0-412c-a203-51e1a0b774b1"
+            ],
+            "value": -1.9388276619650104,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "weekly",
+            "everyX": 1,
+            "startDate": "2025-05-25T17:00:00.000Z",
+            "repeat": {
+                "m": false,
+                "t": false,
+                "w": false,
+                "th": false,
+                "f": false,
+                "s": false,
+                "su": true
+            },
+            "streak": 1,
+            "daysOfMonth": [
+                20
+            ],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-21T17:00:00.000Z",
+                "2025-06-28T17:00:00.000Z",
+                "2025-07-05T17:00:00.000Z",
+                "2025-07-12T17:00:00.000Z",
+                "2025-07-19T17:00:00.000Z",
+                "2025-07-26T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1747795187981,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747858536104,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747968207507,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748064852658,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748116529599,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748249766437,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748284850853,
+                    "value": -1,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748387964703,
+                    "value": -2.025956704627065,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748495682909,
+                    "value": -3.0792442306676366,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748606676144,
+                    "value": -4.161348258391508,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748615150017,
+                    "value": -3.0488181170434956,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748735754615,
+                    "value": -3.0488181170434956,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748801071449,
+                    "value": -3.0488181170434956,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748918566344,
+                    "value": -3.0488181170434956,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748970184331,
+                    "value": -3.0488181170434956,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749078330444,
+                    "value": -3.0488181170434956,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749170576743,
+                    "value": -3.0488181170434956,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749206291406,
+                    "value": -1.9675574616648352,
+                    "isDue": false,
+                    "completed": true
+                },
+                {
+                    "date": 1749357383303,
+                    "value": -1.9675574616648352,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749403499921,
+                    "value": -3.019269908526443,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1749512406559,
+                    "value": -3.019269908526443,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749577557197,
+                    "value": -3.019269908526443,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749661475252,
+                    "value": -3.019269908526443,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749750496924,
+                    "value": -3.019269908526443,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749836022926,
+                    "value": -3.019269908526443,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749920699876,
+                    "value": -3.019269908526443,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749922268553,
+                    "value": -1.9388276619650104,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750119587415,
+                    "value": -1.9388276619650104,
+                    "isDue": false,
+                    "completed": false
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [
+                {
+                    "completed": false,
+                    "text": "Upper",
+                    "id": "6de81252-15f5-48d3-9ece-8366fed6a2c7"
+                },
+                {
+                    "completed": false,
+                    "text": "Core",
+                    "id": "26f77c9d-d2b2-442a-b8e2-5eb1300b16c5"
+                },
+                {
+                    "completed": false,
+                    "text": "Leg",
+                    "id": "4df7f510-109c-4998-a5d3-9510fd84bbf3"
+                }
+            ],
+            "createdAt": "2025-05-20T11:18:47.543Z",
+            "updatedAt": "2025-06-17T00:19:47.447Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": false,
+            "id": "e31f6e92-ea5b-4321-899f-fc38de1e7b41"
+        },
+        {
+            "_id": "6255b9d7-4ca6-4cdd-9360-5ae11cca9a4c",
+            "type": "daily",
+            "text": "Learn a verse from Qur'an",
+            "notes": "",
+            "tags": [
+                "985b6925-5077-44e7-826e-09bfb2d12529"
+            ],
+            "value": 1.1023082998650793,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "weekly",
+            "everyX": 1,
+            "startDate": "2025-05-20T17:00:00.000Z",
+            "repeat": {
+                "m": false,
+                "t": false,
+                "w": false,
+                "th": false,
+                "f": false,
+                "s": true,
+                "su": false
+            },
+            "streak": 3,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-20T17:00:00.000Z",
+                "2025-06-27T17:00:00.000Z",
+                "2025-07-04T17:00:00.000Z",
+                "2025-07-11T17:00:00.000Z",
+                "2025-07-18T17:00:00.000Z",
+                "2025-07-25T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1747795187981,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747858536104,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747968207508,
+                    "value": -1,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748064852659,
+                    "value": -2.025956704627065,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748116529308,
+                    "value": -0.9726691785864934,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748185759543,
+                    "value": 0.05256923111265821,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748284850853,
+                    "value": 0.05256923111265821,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748387964703,
+                    "value": 0.05256923111265821,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748495682910,
+                    "value": 0.05256923111265821,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748606676145,
+                    "value": -0.9460845605036825,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748624910504,
+                    "value": -1.9706247691053949,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748625916814,
+                    "value": -0.918829652889499,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748801071449,
+                    "value": -0.918829652889499,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748918566344,
+                    "value": -0.918829652889499,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748970184331,
+                    "value": -0.918829652889499,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749078330445,
+                    "value": -0.918829652889499,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749170576743,
+                    "value": -0.918829652889499,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749232204019,
+                    "value": -0.918829652889499,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749357383004,
+                    "value": 0.10499524418251882,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749403499922,
+                    "value": 0.10499524418251882,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749512406559,
+                    "value": 0.10499524418251882,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749577557198,
+                    "value": 0.10499524418251882,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749661475255,
+                    "value": 0.10499524418251882,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749750496925,
+                    "value": 0.10499524418251882,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749836022926,
+                    "value": 0.10499524418251882,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749920699553,
+                    "value": 1.1023082998650793,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750037143441,
+                    "value": 1.1023082998650793,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1750119587415,
+                    "value": 1.1023082998650793,
+                    "isDue": false,
+                    "completed": false
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-05-20T11:20:52.224Z",
+            "updatedAt": "2025-06-17T00:19:47.449Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": false,
+            "id": "6255b9d7-4ca6-4cdd-9360-5ae11cca9a4c"
+        },
+        {
+            "_id": "60131876-67ea-4244-b0ce-ad46cd86a729",
+            "type": "daily",
+            "text": "Weekend Deep Sessions",
+            "notes": "Code/Study for 2+ Hour in Weekend",
+            "tags": [
+                "c3af6ab7-4ea3-4f67-be6a-3f87554ce857"
+            ],
+            "value": 3.4009887139474255,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "weekly",
+            "everyX": 1,
+            "startDate": "2025-05-20T17:00:00.000Z",
+            "repeat": {
+                "m": false,
+                "t": false,
+                "w": false,
+                "th": false,
+                "f": false,
+                "s": false,
+                "su": true
+            },
+            "streak": 4,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-21T17:00:00.000Z",
+                "2025-06-28T17:00:00.000Z",
+                "2025-07-05T17:00:00.000Z",
+                "2025-07-12T17:00:00.000Z",
+                "2025-07-19T17:00:00.000Z",
+                "2025-07-26T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1747795187979,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747858536102,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747968207506,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748064852656,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748116529596,
+                    "value": -0.5,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748185762524,
+                    "value": 0.5128952091046066,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748284850851,
+                    "value": 0.5128952091046066,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748387964700,
+                    "value": 0.5128952091046066,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748495682905,
+                    "value": 0.5128952091046066,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748606676142,
+                    "value": 0.5128952091046066,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748624910503,
+                    "value": 0.5128952091046066,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748735754614,
+                    "value": 0.5128952091046066,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748764337403,
+                    "value": 1.4998379834514282,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748918566342,
+                    "value": 1.4998379834514282,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748970184330,
+                    "value": 1.4998379834514282,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749078330444,
+                    "value": 1.4998379834514282,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749170576742,
+                    "value": 1.4998379834514282,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749232204016,
+                    "value": 1.4998379834514282,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749357383302,
+                    "value": 1.4998379834514282,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749397071270,
+                    "value": 2.462133034282223,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749512406558,
+                    "value": 2.462133034282223,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749577557196,
+                    "value": 2.462133034282223,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749661475251,
+                    "value": 2.462133034282223,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749750496920,
+                    "value": 2.462133034282223,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749836022925,
+                    "value": 2.462133034282223,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749920699875,
+                    "value": 2.462133034282223,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749991127822,
+                    "value": 3.4009887139474255,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750119587413,
+                    "value": 3.4009887139474255,
+                    "isDue": false,
+                    "completed": false
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [
+                {
+                    "completed": false,
+                    "text": "Saturday",
+                    "id": "c60cdd80-1a07-42d0-b05b-c2b4d0c5c733"
+                },
+                {
+                    "completed": false,
+                    "text": "Sunday",
+                    "id": "8e14377d-16ed-440a-afa5-cf163ce213c7"
+                }
+            ],
+            "createdAt": "2025-05-20T11:14:17.968Z",
+            "updatedAt": "2025-06-17T00:19:47.441Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": false,
+            "id": "60131876-67ea-4244-b0ce-ad46cd86a729"
+        },
+        {
+            "_id": "e786bfef-4f12-414e-a87a-6d803b020939",
+            "type": "daily",
+            "text": "Review Week",
+            "notes": "",
+            "tags": [
+                "61bd981e-c67a-48c0-8658-ce2c1af10167"
+            ],
+            "value": 1.999360257529945,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "weekly",
+            "everyX": 1,
+            "startDate": "2025-05-25T17:00:00.000Z",
+            "repeat": {
+                "m": false,
+                "t": false,
+                "w": false,
+                "th": false,
+                "f": false,
+                "s": false,
+                "su": true
+            },
+            "streak": 3,
+            "daysOfMonth": [],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-21T17:00:00.000Z",
+                "2025-06-28T17:00:00.000Z",
+                "2025-07-05T17:00:00.000Z",
+                "2025-07-12T17:00:00.000Z",
+                "2025-07-19T17:00:00.000Z",
+                "2025-07-26T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1747795187981,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747858536104,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747968207508,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748064852660,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748116529600,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748249766437,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748284850854,
+                    "value": -1,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748387964704,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748495682911,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748606676145,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748624910505,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748735754616,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748764342297,
+                    "value": 0.025956704627064786,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1748918566345,
+                    "value": 0.025956704627064786,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748970184331,
+                    "value": 0.025956704627064786,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749078330445,
+                    "value": 0.025956704627064786,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749170576744,
+                    "value": 0.025956704627064786,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749232204019,
+                    "value": 0.025956704627064786,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749357383304,
+                    "value": 0.025956704627064786,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749397069706,
+                    "value": 1.0252917710224885,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1749512406560,
+                    "value": 1.0252917710224885,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749577557198,
+                    "value": 1.0252917710224885,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749661475255,
+                    "value": 1.0252917710224885,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749750496925,
+                    "value": 1.0252917710224885,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749836022926,
+                    "value": 1.0252917710224885,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749920699877,
+                    "value": 1.0252917710224885,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749991495496,
+                    "value": 1.999360257529945,
+                    "isDue": true,
+                    "completed": true
+                },
+                {
+                    "date": 1750119587416,
+                    "value": 1.999360257529945,
+                    "isDue": false,
+                    "completed": false
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [
+                {
+                    "completed": false,
+                    "text": "Wrote down anything i have learned",
+                    "id": "698ee378-69f4-4dcd-84f7-8ffcb305a086"
+                },
+                {
+                    "completed": false,
+                    "text": "Set new 1 intention",
+                    "id": "23c04aac-fa28-4fd7-8d0f-447c45b79611"
+                }
+            ],
+            "createdAt": "2025-05-20T11:21:22.873Z",
+            "updatedAt": "2025-06-17T00:19:47.456Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": false,
+            "id": "e786bfef-4f12-414e-a87a-6d803b020939"
+        },
+        {
+            "_id": "1f27d4e2-37e6-4e6f-882d-a42f961bca41",
+            "type": "daily",
+            "text": "System Refresh",
+            "notes": "",
+            "tags": [
+                "61bd981e-c67a-48c0-8658-ce2c1af10167"
+            ],
+            "value": -1,
+            "priority": 2,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "frequency": "monthly",
+            "everyX": 1,
+            "startDate": "2025-05-24T17:00:00.000Z",
+            "repeat": {
+                "m": false,
+                "t": true,
+                "w": false,
+                "th": false,
+                "f": false,
+                "s": false,
+                "su": false
+            },
+            "streak": 0,
+            "daysOfMonth": [
+                25
+            ],
+            "weeksOfMonth": [],
+            "nextDue": [
+                "2025-06-24T17:00:00.000Z",
+                "2025-07-24T17:00:00.000Z",
+                "2025-08-24T17:00:00.000Z",
+                "2025-09-24T17:00:00.000Z",
+                "2025-10-24T17:00:00.000Z",
+                "2025-11-24T17:00:00.000Z"
+            ],
+            "yesterDaily": true,
+            "history": [
+                {
+                    "date": 1747795187981,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747858536105,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1747968207508,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748064852660,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748116529600,
+                    "value": 0,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748249766438,
+                    "value": -1,
+                    "isDue": true,
+                    "completed": false
+                },
+                {
+                    "date": 1748284850855,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748387964704,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748495682912,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748606676145,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748624910505,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748735754616,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748801071450,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748918566345,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1748970184332,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749078330445,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749170576744,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749232204019,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749357383304,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749403499923,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749512406560,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749577557199,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749661475256,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749750496925,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749836022927,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1749920699877,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1750037143442,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                },
+                {
+                    "date": 1750119587416,
+                    "value": -1,
+                    "isDue": false,
+                    "completed": false
+                }
+            ],
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [
+                {
+                    "completed": false,
+                    "text": "Delete Stale Task",
+                    "id": "194020aa-55b7-4a8d-bbc0-7af5afdebc59"
+                },
+                {
+                    "completed": true,
+                    "text": "Add New Habits",
+                    "id": "9359d03c-bae4-44ec-bb48-86f1cc003ff3"
+                },
+                {
+                    "completed": false,
+                    "text": "Reflect on growth",
+                    "id": "f4ccc958-6055-4aeb-80f8-d38003acb190"
+                },
+                {
+                    "completed": false,
+                    "text": "Journal \"Why am i doing this?\"",
+                    "id": "f151fda4-15ab-4276-9d45-3426afdc0e08"
+                }
+            ],
+            "createdAt": "2025-05-20T11:23:59.716Z",
+            "updatedAt": "2025-06-17T00:19:47.459Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "isDue": false,
+            "id": "1f27d4e2-37e6-4e6f-882d-a42f961bca41"
+        },
+        {
+            "_id": "19cda70a-b94e-4d83-a737-c7c51da6a63a",
+            "type": "todo",
+            "text": "Learn Gradien",
+            "notes": "",
+            "tags": [
+                "489fc6d7-f4d3-4b33-82eb-d274264053c0"
+            ],
+            "value": -1,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {},
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-06-16T10:05:07.075Z",
+            "updatedAt": "2025-06-17T00:19:47.500Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "19cda70a-b94e-4d83-a737-c7c51da6a63a"
+        },
+        {
+            "_id": "aee4218f-95a1-45bf-aae1-1a2f8467b3dc",
+            "type": "todo",
+            "text": "14 Days of Cleaning - Steady Strain",
+            "notes": "Steady, steady. Every day is hard, every day is a strain on you, but you keep powering on.",
+            "tags": [
+                "2473383e-7554-4598-8ad0-dfb171d7f914"
+            ],
+            "value": -23.586287463938206,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {
+                "shortName": "clean-jun25",
+                "id": "2473383e-7554-4598-8ad0-dfb171d7f914",
+                "taskId": "6951601d-19ea-4d2d-997b-c0cca48bfee8"
+            },
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "date": "2025-06-30T15:47:00.000Z",
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-05-30T14:46:18.392Z",
+            "updatedAt": "2025-06-17T00:19:47.486Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "aee4218f-95a1-45bf-aae1-1a2f8467b3dc"
+        },
+        {
+            "_id": "db276921-8519-49a1-a4f7-478bfebf4073",
+            "type": "todo",
+            "text": "21 Days of Cleaning - Fortuitious Future",
+            "notes": "There's progress. Slow at first, but your future is looking bright.",
+            "tags": [
+                "2473383e-7554-4598-8ad0-dfb171d7f914"
+            ],
+            "value": -23.586287463938206,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {
+                "shortName": "clean-jun25",
+                "id": "2473383e-7554-4598-8ad0-dfb171d7f914",
+                "taskId": "93aabb61-44ad-4df1-903a-d09c079ed81f"
+            },
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "date": "2025-06-30T15:48:00.000Z",
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-05-30T14:46:18.392Z",
+            "updatedAt": "2025-06-17T00:19:47.482Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "db276921-8519-49a1-a4f7-478bfebf4073"
+        },
+        {
+            "_id": "461712e0-b43d-48c3-8646-19d5a8a3e871",
+            "type": "todo",
+            "text": "28 Days of Cleaning - Vain View",
+            "notes": "For everything fades, and nothing lasts forever. But for today, you have ordered the chaos. Tomorrow, who knows. The journey never ends.",
+            "tags": [
+                "2473383e-7554-4598-8ad0-dfb171d7f914"
+            ],
+            "value": -23.586287463938206,
+            "priority": 2,
+            "attribute": "str",
+            "challenge": {
+                "shortName": "clean-jun25",
+                "id": "2473383e-7554-4598-8ad0-dfb171d7f914",
+                "taskId": "4504efe5-5dfa-4212-8bfb-9c919b515e2d"
+            },
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "date": "2025-06-30T15:50:00.000Z",
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-05-30T14:46:18.393Z",
+            "updatedAt": "2025-06-17T00:19:47.484Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "461712e0-b43d-48c3-8646-19d5a8a3e871"
+        },
+        {
+            "_id": "91e9f76b-a189-4c12-8b3d-7fd16ecd97c1",
+            "type": "todo",
+            "text": "Plan a New Milestone",
+            "notes": "This is a great time to set a new mini-goal for three months from now! Where would you like to be in September? Base your goal on your pace so far.",
+            "tags": [
+                "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358"
+            ],
+            "value": -23.586287463938206,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {
+                "shortName": "NYR Jun 2025",
+                "id": "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358",
+                "taskId": "33a115b4-7f70-4cd0-991f-f732d6e43beb"
+            },
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "date": "2025-06-30T21:18:00.000Z",
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-05-30T14:45:45.030Z",
+            "updatedAt": "2025-06-17T00:19:47.478Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "91e9f76b-a189-4c12-8b3d-7fd16ecd97c1"
+        },
+        {
+            "_id": "c35f3252-88a2-4b66-bf27-e323f09e55f5",
+            "type": "todo",
+            "text": "Share your Triumphs!",
+            "notes": "Share your progress with your friends, family, and/or Habitica partymates. ",
+            "tags": [
+                "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358"
+            ],
+            "value": -23.586287463938206,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {
+                "shortName": "NYR Jun 2025",
+                "id": "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358",
+                "taskId": "970abe17-2cb6-40be-8b1a-7e19b0af16ed"
+            },
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "date": "2025-06-30T21:18:00.000Z",
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-05-30T14:45:45.030Z",
+            "updatedAt": "2025-06-17T00:19:47.476Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "c35f3252-88a2-4b66-bf27-e323f09e55f5"
+        },
+        {
+            "_id": "8668e65f-40f0-4c8d-8887-94965cb61fcf",
+            "type": "todo",
+            "text": "Look Ahead Toward the Ultimate Goal!",
+            "notes": "When you first set your goals, where did you want to be at the end of 2024? With the pace you're setting at nearly halfway through, is your goal still realistic? If not, think about adjusting your goal to better fit your pace.",
+            "tags": [
+                "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358"
+            ],
+            "value": -23.586287463938206,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {
+                "shortName": "NYR Jun 2025",
+                "id": "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358",
+                "taskId": "a473b68d-f06f-4242-a863-25820805f139"
+            },
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "date": "2025-06-30T21:19:00.000Z",
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-05-30T14:45:45.030Z",
+            "updatedAt": "2025-06-17T00:19:47.480Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "8668e65f-40f0-4c8d-8887-94965cb61fcf"
+        },
+        {
+            "_id": "adc3d56d-1b74-4118-80bb-9f1af8a62ec6",
+            "type": "todo",
+            "text": "June End-of-Month Check-In!",
+            "notes": "Towards the end of the month reflect on your progress so far and your hopes for the coming months. It may be helpful to make notes about how you're doing or share with an accountability buddy.",
+            "tags": [
+                "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358"
+            ],
+            "value": -23.586287463938206,
+            "priority": 1.5,
+            "attribute": "str",
+            "challenge": {
+                "shortName": "NYR Jun 2025",
+                "id": "b4e6d3f2-0ca4-48f0-84d1-4bed54fd1358",
+                "taskId": "dda9b9f2-52a7-4b15-b8e8-96146b042e39"
+            },
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "date": "2025-06-30T21:18:00.000Z",
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-05-30T14:45:45.029Z",
+            "updatedAt": "2025-06-17T00:19:47.474Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "adc3d56d-1b74-4118-80bb-9f1af8a62ec6"
+        },
+        {
+            "_id": "98167272-5f94-44b6-9f0f-a0d7e9e20698",
+            "type": "todo",
+            "text": "Join the Guild chat if you'd like",
+            "notes": "**Chat for [Slobs Anonymous](https://discord.gg/K3jYw8NYTq) is now avaiable on the [Habitica unofficial Discord](https://discord.gg/pqg8Bt7N8U). The *other* server, [Habitica Central](https://discord.gg/sbAzZZ3c3B) also comes warmly recommended. Come join us if you'd like to talk!**",
+            "tags": [
+                "2473383e-7554-4598-8ad0-dfb171d7f914"
+            ],
+            "value": -23.586287463938206,
+            "priority": 1,
+            "attribute": "str",
+            "challenge": {
+                "shortName": "clean-jun25",
+                "id": "2473383e-7554-4598-8ad0-dfb171d7f914",
+                "taskId": "b01506d9-7ead-47ed-868c-82ce445c773e"
+            },
+            "group": {
+                "completedBy": {},
+                "assignedUsers": []
+            },
+            "reminders": [],
+            "byHabitica": false,
+            "date": "2025-06-30T03:23:00.000Z",
+            "completed": false,
+            "collapseChecklist": false,
+            "checklist": [],
+            "createdAt": "2025-05-30T14:46:18.393Z",
+            "updatedAt": "2025-06-17T00:19:47.488Z",
+            "userId": "f69f2b7d-d727-4ae5-8744-1a9725c75d91",
+            "id": "98167272-5f94-44b6-9f0f-a0d7e9e20698"
+        }
+    ]
+}
