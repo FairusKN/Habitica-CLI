@@ -48,7 +48,7 @@ Run the CLI-first:
 python -m habitica_cli --help
 ```
 
-⚙️ Commands
+## ⚙️ Commands
 
 ```
 python -m habitica_cli <command> [options]
@@ -66,7 +66,7 @@ Common Flags
 --api: Check if Habitica API is reachable
 --version: Show CLI version
 
-📁 .env Configuration
+## 📁 .env Configuration
 
 Copy .env.example and fill in your values:
 
@@ -75,22 +75,24 @@ HABITICA_API_KEY=your-api-token-here
 HABITICA_USER_ID=your-user-id-here
 ```
 
-🛠️ Known Issues
+## 🛠️ Known Issues
 
 - Some subcommands may still have edge-case bugs
 - TUI (Terminal UI) interface is under consideration
 
-📌 Roadmap
-✅ CLI MVP
-🟡 Error handling improvements
-🟡 Add unit tests
-🟡 Build textual or rich-based TUI
-🟡 Package as pip install habitica-cli
+## 📌 Roadmap
 
-💡 Author
+- ✅ CLI MVP
+- 🟡 Error handling improvements
+- 🟡 Add unit tests
+- 🟡 Build textual or rich-based TUI
+- 🟡 Package as pip install habitica-cli
+
+## 💡 Author
 
 Made by [FairusKN](github.copm/FairusKN) — student.
 Built to stay consistent with Habitica and make life a bit more fun.
 
-📜 License
+## 📜 License
+
 [MIT License](LICCENSE.md)
