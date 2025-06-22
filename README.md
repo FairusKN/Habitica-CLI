@@ -95,4 +95,4 @@ Built to stay consistent with Habitica and make life a bit more fun.
 
 ## 📜 License
 
-[MIT License](LICCENSE.md)
+[MIT License](LICENSE.md)
